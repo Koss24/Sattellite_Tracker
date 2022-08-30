@@ -1,0 +1,515 @@
+[2022-08-22 00:00:05,252] {processor.py:153} INFO - Started process (PID=1112) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:00:05,252] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:00:05,252] {logging_mixin.py:115} INFO - [2022-08-22 00:00:05,252] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:00:05,577] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:00:05,588] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.339 seconds
+[2022-08-22 00:00:35,691] {processor.py:153} INFO - Started process (PID=1136) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:00:35,703] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:00:35,704] {logging_mixin.py:115} INFO - [2022-08-22 00:00:35,704] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:00:36,012] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:00:36,025] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.337 seconds
+[2022-08-22 00:01:06,106] {processor.py:153} INFO - Started process (PID=1169) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:01:06,119] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:01:06,120] {logging_mixin.py:115} INFO - [2022-08-22 00:01:06,120] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:01:06,433] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:01:06,441] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.339 seconds
+[2022-08-22 00:01:36,544] {processor.py:153} INFO - Started process (PID=1202) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:01:36,561] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:01:36,561] {logging_mixin.py:115} INFO - [2022-08-22 00:01:36,561] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:01:36,860] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:01:36,871] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.331 seconds
+[2022-08-22 00:02:06,979] {processor.py:153} INFO - Started process (PID=1226) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:02:06,993] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:02:06,994] {logging_mixin.py:115} INFO - [2022-08-22 00:02:06,994] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:02:07,281] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:02:07,292] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.317 seconds
+[2022-08-22 00:02:37,414] {processor.py:153} INFO - Started process (PID=1259) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:02:37,426] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:02:37,427] {logging_mixin.py:115} INFO - [2022-08-22 00:02:37,427] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:02:37,743] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:02:37,752] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.340 seconds
+[2022-08-22 00:03:07,853] {processor.py:153} INFO - Started process (PID=1283) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:03:07,868] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:03:07,869] {logging_mixin.py:115} INFO - [2022-08-22 00:03:07,869] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:03:08,189] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:03:08,200] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.349 seconds
+[2022-08-22 00:03:38,298] {processor.py:153} INFO - Started process (PID=1316) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:03:38,319] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:03:38,320] {logging_mixin.py:115} INFO - [2022-08-22 00:03:38,320] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:03:38,603] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:03:38,614] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.320 seconds
+[2022-08-22 00:04:08,726] {processor.py:153} INFO - Started process (PID=1349) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:04:08,735] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:04:08,735] {logging_mixin.py:115} INFO - [2022-08-22 00:04:08,735] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:04:09,010] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:04:09,019] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.297 seconds
+[2022-08-22 00:04:39,127] {processor.py:153} INFO - Started process (PID=1372) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:04:39,134] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:04:39,135] {logging_mixin.py:115} INFO - [2022-08-22 00:04:39,135] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:04:39,447] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:04:39,461] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.339 seconds
+[2022-08-22 00:05:09,655] {processor.py:153} INFO - Started process (PID=1405) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:05:09,656] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:05:09,656] {logging_mixin.py:115} INFO - [2022-08-22 00:05:09,656] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:05:09,957] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:05:09,972] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.322 seconds
+[2022-08-22 00:05:40,124] {processor.py:153} INFO - Started process (PID=1438) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:05:40,134] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:05:40,134] {logging_mixin.py:115} INFO - [2022-08-22 00:05:40,134] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:05:40,506] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:05:40,520] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.400 seconds
+[2022-08-22 00:06:10,650] {processor.py:153} INFO - Started process (PID=1462) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:06:10,658] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:06:10,659] {logging_mixin.py:115} INFO - [2022-08-22 00:06:10,659] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:06:10,962] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:06:10,973] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.326 seconds
+[2022-08-22 00:06:41,142] {processor.py:153} INFO - Started process (PID=1495) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:06:41,150] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:06:41,151] {logging_mixin.py:115} INFO - [2022-08-22 00:06:41,151] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:06:41,473] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:06:41,484] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.346 seconds
+[2022-08-22 00:07:11,634] {processor.py:153} INFO - Started process (PID=1529) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:07:11,649] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:07:11,650] {logging_mixin.py:115} INFO - [2022-08-22 00:07:11,650] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:07:11,978] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:07:11,992] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.360 seconds
+[2022-08-22 00:07:42,192] {processor.py:153} INFO - Started process (PID=1553) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:07:42,207] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:07:42,207] {logging_mixin.py:115} INFO - [2022-08-22 00:07:42,207] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:07:42,511] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:07:42,523] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.335 seconds
+[2022-08-22 00:08:12,668] {processor.py:153} INFO - Started process (PID=1586) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:08:12,681] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:08:12,682] {logging_mixin.py:115} INFO - [2022-08-22 00:08:12,682] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:08:12,963] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:08:12,976] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.313 seconds
+[2022-08-22 00:08:43,162] {processor.py:153} INFO - Started process (PID=1610) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:08:43,163] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:08:43,163] {logging_mixin.py:115} INFO - [2022-08-22 00:08:43,163] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:08:43,463] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:08:43,477] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.319 seconds
+[2022-08-22 00:09:13,682] {processor.py:153} INFO - Started process (PID=1643) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:09:13,697] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:09:13,698] {logging_mixin.py:115} INFO - [2022-08-22 00:09:13,698] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:09:14,037] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:09:14,050] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.372 seconds
+[2022-08-22 00:09:44,190] {processor.py:153} INFO - Started process (PID=1676) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:09:44,206] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:09:44,207] {logging_mixin.py:115} INFO - [2022-08-22 00:09:44,206] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:09:44,485] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:09:44,497] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.311 seconds
+[2022-08-22 00:10:14,654] {processor.py:153} INFO - Started process (PID=1700) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:10:14,689] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:10:14,690] {logging_mixin.py:115} INFO - [2022-08-22 00:10:14,690] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:10:14,977] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:10:14,990] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.340 seconds
+[2022-08-22 00:10:45,118] {processor.py:153} INFO - Started process (PID=1733) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:10:45,138] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:10:45,139] {logging_mixin.py:115} INFO - [2022-08-22 00:10:45,139] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:10:45,449] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:10:45,464] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.348 seconds
+[2022-08-22 00:11:15,605] {processor.py:153} INFO - Started process (PID=1766) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:11:15,629] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:11:15,630] {logging_mixin.py:115} INFO - [2022-08-22 00:11:15,630] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:11:15,950] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:11:15,966] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.365 seconds
+[2022-08-22 00:11:46,074] {processor.py:153} INFO - Started process (PID=1790) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:11:46,079] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:11:46,079] {logging_mixin.py:115} INFO - [2022-08-22 00:11:46,079] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:11:46,359] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:11:46,368] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.297 seconds
+[2022-08-22 00:12:16,526] {processor.py:153} INFO - Started process (PID=1823) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:12:16,529] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:12:16,529] {logging_mixin.py:115} INFO - [2022-08-22 00:12:16,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:12:16,834] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:12:16,849] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.327 seconds
+[2022-08-22 00:12:46,999] {processor.py:153} INFO - Started process (PID=1856) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:12:47,019] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:12:47,020] {logging_mixin.py:115} INFO - [2022-08-22 00:12:47,020] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:12:47,342] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:12:47,358] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.360 seconds
+[2022-08-22 00:13:17,731] {processor.py:153} INFO - Started process (PID=1880) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:13:17,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:13:17,731] {logging_mixin.py:115} INFO - [2022-08-22 00:13:17,731] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:13:18,053] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:13:18,065] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.338 seconds
+[2022-08-22 00:13:48,255] {processor.py:153} INFO - Started process (PID=1913) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:13:48,270] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:13:48,271] {logging_mixin.py:115} INFO - [2022-08-22 00:13:48,271] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:13:48,555] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:13:48,569] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.318 seconds
+[2022-08-22 00:14:18,701] {processor.py:153} INFO - Started process (PID=1944) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:14:18,702] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:14:18,702] {logging_mixin.py:115} INFO - [2022-08-22 00:14:18,702] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:14:19,004] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:14:19,013] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.315 seconds
+[2022-08-22 00:14:49,170] {processor.py:153} INFO - Started process (PID=1970) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:14:49,171] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:14:49,171] {logging_mixin.py:115} INFO - [2022-08-22 00:14:49,171] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:14:49,478] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:14:49,488] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.322 seconds
+[2022-08-22 00:15:19,646] {processor.py:153} INFO - Started process (PID=2003) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:15:19,658] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:15:19,658] {logging_mixin.py:115} INFO - [2022-08-22 00:15:19,658] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:15:19,981] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:15:19,992] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.347 seconds
+[2022-08-22 00:15:50,161] {processor.py:153} INFO - Started process (PID=2027) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:15:50,161] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:15:50,162] {logging_mixin.py:115} INFO - [2022-08-22 00:15:50,162] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:15:50,471] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:15:50,482] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.326 seconds
+[2022-08-22 00:16:20,638] {processor.py:153} INFO - Started process (PID=2060) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:16:20,759] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:16:20,775] {logging_mixin.py:115} INFO - [2022-08-22 00:16:20,774] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:16:21,075] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:16:21,090] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.455 seconds
+[2022-08-22 00:16:51,265] {processor.py:153} INFO - Started process (PID=2093) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:16:51,267] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:16:51,267] {logging_mixin.py:115} INFO - [2022-08-22 00:16:51,267] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:16:51,641] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:16:51,652] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.391 seconds
+[2022-08-22 00:17:21,786] {processor.py:153} INFO - Started process (PID=2117) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:17:21,786] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:17:21,787] {logging_mixin.py:115} INFO - [2022-08-22 00:17:21,787] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:17:22,129] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:17:22,144] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.361 seconds
+[2022-08-22 00:17:52,325] {processor.py:153} INFO - Started process (PID=2153) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:17:52,334] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:17:52,335] {logging_mixin.py:115} INFO - [2022-08-22 00:17:52,335] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:17:52,699] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:17:52,713] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.393 seconds
+[2022-08-22 00:18:22,879] {processor.py:153} INFO - Started process (PID=2186) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:18:22,880] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:18:22,881] {logging_mixin.py:115} INFO - [2022-08-22 00:18:22,881] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:18:23,171] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:18:23,182] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.307 seconds
+[2022-08-22 00:18:53,319] {processor.py:153} INFO - Started process (PID=2211) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:18:53,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:18:53,328] {logging_mixin.py:115} INFO - [2022-08-22 00:18:53,328] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:18:53,657] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:18:53,672] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.357 seconds
+[2022-08-22 00:19:23,850] {processor.py:153} INFO - Started process (PID=2244) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:19:23,858] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:19:23,858] {logging_mixin.py:115} INFO - [2022-08-22 00:19:23,858] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:19:24,184] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:19:24,200] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.353 seconds
+[2022-08-22 00:19:54,351] {processor.py:153} INFO - Started process (PID=2268) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:19:54,374] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:19:54,375] {logging_mixin.py:115} INFO - [2022-08-22 00:19:54,375] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:19:54,725] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:19:54,738] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.390 seconds
+[2022-08-22 00:20:24,935] {processor.py:153} INFO - Started process (PID=2302) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:20:24,948] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:20:24,949] {logging_mixin.py:115} INFO - [2022-08-22 00:20:24,949] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:20:25,278] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:20:25,289] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.358 seconds
+[2022-08-22 00:20:55,418] {processor.py:153} INFO - Started process (PID=2336) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:20:55,432] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:20:55,433] {logging_mixin.py:115} INFO - [2022-08-22 00:20:55,433] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:20:55,939] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:20:55,949] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.549 seconds
+[2022-08-22 00:21:26,111] {processor.py:153} INFO - Started process (PID=2360) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:21:26,112] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:21:26,113] {logging_mixin.py:115} INFO - [2022-08-22 00:21:26,113] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:21:26,447] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:21:26,459] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.354 seconds
+[2022-08-22 00:21:56,612] {processor.py:153} INFO - Started process (PID=2393) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:21:56,613] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:21:56,613] {logging_mixin.py:115} INFO - [2022-08-22 00:21:56,613] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:21:56,921] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:21:56,935] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.327 seconds
+[2022-08-22 00:22:27,107] {processor.py:153} INFO - Started process (PID=2417) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:22:27,127] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:22:27,128] {logging_mixin.py:115} INFO - [2022-08-22 00:22:27,128] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:22:27,461] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:22:27,472] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.369 seconds
+[2022-08-22 00:22:57,659] {processor.py:153} INFO - Started process (PID=2450) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:22:57,668] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:22:57,669] {logging_mixin.py:115} INFO - [2022-08-22 00:22:57,669] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:22:58,016] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:22:58,031] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.377 seconds
+[2022-08-22 00:23:28,172] {processor.py:153} INFO - Started process (PID=2483) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:23:28,176] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:23:28,177] {logging_mixin.py:115} INFO - [2022-08-22 00:23:28,177] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:23:28,542] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:23:28,552] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.386 seconds
+[2022-08-22 00:23:58,729] {processor.py:153} INFO - Started process (PID=2507) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:23:58,730] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:23:58,731] {logging_mixin.py:115} INFO - [2022-08-22 00:23:58,731] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:23:59,017] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:23:59,027] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.302 seconds
+[2022-08-22 00:24:29,207] {processor.py:153} INFO - Started process (PID=2540) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:24:29,226] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:24:29,227] {logging_mixin.py:115} INFO - [2022-08-22 00:24:29,227] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:24:29,531] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:24:29,547] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.342 seconds
+[2022-08-22 00:24:59,728] {processor.py:153} INFO - Started process (PID=2574) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:24:59,729] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:24:59,730] {logging_mixin.py:115} INFO - [2022-08-22 00:24:59,730] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:25:00,205] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:25:00,228] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.506 seconds
+[2022-08-22 00:25:30,446] {processor.py:153} INFO - Started process (PID=2598) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:25:30,462] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:25:30,463] {logging_mixin.py:115} INFO - [2022-08-22 00:25:30,463] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:25:30,873] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:25:30,884] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.441 seconds
+[2022-08-22 00:26:01,028] {processor.py:153} INFO - Started process (PID=2631) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:26:01,045] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:26:01,046] {logging_mixin.py:115} INFO - [2022-08-22 00:26:01,046] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:26:01,764] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:26:01,775] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.762 seconds
+[2022-08-22 00:26:31,979] {processor.py:153} INFO - Started process (PID=2655) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:26:31,986] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:26:31,987] {logging_mixin.py:115} INFO - [2022-08-22 00:26:31,987] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:26:32,329] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:26:32,344] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.369 seconds
+[2022-08-22 00:27:02,471] {processor.py:153} INFO - Started process (PID=2688) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:27:02,477] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:27:02,478] {logging_mixin.py:115} INFO - [2022-08-22 00:27:02,478] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:27:02,808] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:27:02,822] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.355 seconds
+[2022-08-22 00:27:33,025] {processor.py:153} INFO - Started process (PID=2722) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:27:33,035] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:27:33,036] {logging_mixin.py:115} INFO - [2022-08-22 00:27:33,036] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:27:33,352] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:27:33,362] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.342 seconds
+[2022-08-22 00:28:03,520] {processor.py:153} INFO - Started process (PID=2746) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:28:03,527] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:28:03,528] {logging_mixin.py:115} INFO - [2022-08-22 00:28:03,528] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:28:03,833] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:28:03,845] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.329 seconds
+[2022-08-22 00:28:33,994] {processor.py:153} INFO - Started process (PID=2779) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:28:33,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:28:33,995] {logging_mixin.py:115} INFO - [2022-08-22 00:28:33,995] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:28:34,276] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:28:34,288] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.299 seconds
+[2022-08-22 00:29:04,437] {processor.py:153} INFO - Started process (PID=2803) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:29:04,442] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:29:04,443] {logging_mixin.py:115} INFO - [2022-08-22 00:29:04,443] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:29:04,768] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:29:04,779] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.346 seconds
+[2022-08-22 00:29:34,991] {processor.py:153} INFO - Started process (PID=2836) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:29:35,000] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:29:35,001] {logging_mixin.py:115} INFO - [2022-08-22 00:29:35,001] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:29:35,348] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:29:35,362] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.375 seconds
+[2022-08-22 00:30:05,490] {processor.py:153} INFO - Started process (PID=2868) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:30:05,491] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:30:05,492] {logging_mixin.py:115} INFO - [2022-08-22 00:30:05,492] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:30:05,811] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:30:05,822] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.336 seconds
+[2022-08-22 00:30:35,944] {processor.py:153} INFO - Started process (PID=2892) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:30:35,958] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:30:35,959] {logging_mixin.py:115} INFO - [2022-08-22 00:30:35,959] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:30:36,275] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:30:36,289] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.349 seconds
+[2022-08-22 00:31:06,426] {processor.py:153} INFO - Started process (PID=2925) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:31:06,449] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:31:06,450] {logging_mixin.py:115} INFO - [2022-08-22 00:31:06,450] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:31:06,800] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:31:06,812] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.389 seconds
+[2022-08-22 00:31:36,950] {processor.py:153} INFO - Started process (PID=2959) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:31:36,957] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:31:36,957] {logging_mixin.py:115} INFO - [2022-08-22 00:31:36,957] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:31:37,305] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:31:37,314] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.368 seconds
+[2022-08-22 00:32:07,507] {processor.py:153} INFO - Started process (PID=2982) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:32:07,516] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:32:07,517] {logging_mixin.py:115} INFO - [2022-08-22 00:32:07,516] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:32:07,830] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:32:07,844] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.339 seconds
+[2022-08-22 00:32:38,044] {processor.py:153} INFO - Started process (PID=3016) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:32:38,049] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:32:38,049] {logging_mixin.py:115} INFO - [2022-08-22 00:32:38,049] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:32:38,423] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:32:38,437] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.398 seconds
+[2022-08-22 00:33:08,599] {processor.py:153} INFO - Started process (PID=3040) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:33:08,607] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:33:08,607] {logging_mixin.py:115} INFO - [2022-08-22 00:33:08,607] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:33:08,927] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:33:08,942] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.346 seconds
+[2022-08-22 00:33:39,081] {processor.py:153} INFO - Started process (PID=3073) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:33:39,090] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:33:39,090] {logging_mixin.py:115} INFO - [2022-08-22 00:33:39,090] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:33:39,396] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:33:39,412] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.335 seconds
+[2022-08-22 00:34:09,573] {processor.py:153} INFO - Started process (PID=3106) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:34:09,579] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:34:09,579] {logging_mixin.py:115} INFO - [2022-08-22 00:34:09,579] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:34:09,872] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:34:09,884] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.316 seconds
+[2022-08-22 00:34:40,042] {processor.py:153} INFO - Started process (PID=3129) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:34:40,043] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:34:40,043] {logging_mixin.py:115} INFO - [2022-08-22 00:34:40,043] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:34:40,333] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:34:40,344] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.307 seconds
+[2022-08-22 00:35:10,493] {processor.py:153} INFO - Started process (PID=3161) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:35:10,505] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:35:10,505] {logging_mixin.py:115} INFO - [2022-08-22 00:35:10,505] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:35:10,792] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:35:10,802] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.314 seconds
+[2022-08-22 00:35:40,937] {processor.py:153} INFO - Started process (PID=3194) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:35:40,938] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:35:40,938] {logging_mixin.py:115} INFO - [2022-08-22 00:35:40,938] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:35:41,230] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:35:41,241] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.308 seconds
+[2022-08-22 00:36:11,424] {processor.py:153} INFO - Started process (PID=3219) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:36:11,424] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:36:11,425] {logging_mixin.py:115} INFO - [2022-08-22 00:36:11,425] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:36:11,717] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:36:11,731] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.312 seconds
+[2022-08-22 00:36:41,894] {processor.py:153} INFO - Started process (PID=3252) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:36:41,912] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:36:41,913] {logging_mixin.py:115} INFO - [2022-08-22 00:36:41,913] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:36:42,213] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:36:42,226] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.337 seconds
+[2022-08-22 00:37:12,380] {processor.py:153} INFO - Started process (PID=3276) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:37:12,395] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:37:12,396] {logging_mixin.py:115} INFO - [2022-08-22 00:37:12,395] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:37:12,694] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:37:12,707] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.331 seconds
+[2022-08-22 00:37:42,842] {processor.py:153} INFO - Started process (PID=3309) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:37:42,843] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:37:42,844] {logging_mixin.py:115} INFO - [2022-08-22 00:37:42,844] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:37:43,195] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:37:43,206] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.368 seconds
+[2022-08-22 00:38:13,442] {processor.py:153} INFO - Started process (PID=3342) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:38:13,566] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:38:13,567] {logging_mixin.py:115} INFO - [2022-08-22 00:38:13,567] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:38:13,895] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:38:13,911] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.472 seconds
+[2022-08-22 00:38:44,062] {processor.py:153} INFO - Started process (PID=3366) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:38:44,068] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:38:44,068] {logging_mixin.py:115} INFO - [2022-08-22 00:38:44,068] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:38:44,368] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:38:44,385] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.327 seconds
+[2022-08-22 00:39:14,553] {processor.py:153} INFO - Started process (PID=3399) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:39:14,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:39:14,555] {logging_mixin.py:115} INFO - [2022-08-22 00:39:14,555] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:39:14,831] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:39:14,842] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.293 seconds
+[2022-08-22 00:39:45,016] {processor.py:153} INFO - Started process (PID=3432) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:39:45,026] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:39:45,026] {logging_mixin.py:115} INFO - [2022-08-22 00:39:45,026] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:39:45,360] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:39:45,377] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.366 seconds
+[2022-08-22 00:40:15,544] {processor.py:153} INFO - Started process (PID=3456) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:40:15,559] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:40:15,559] {logging_mixin.py:115} INFO - [2022-08-22 00:40:15,559] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:40:15,876] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:40:15,886] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.346 seconds
+[2022-08-22 00:40:46,069] {processor.py:153} INFO - Started process (PID=3488) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:40:46,083] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:40:46,084] {logging_mixin.py:115} INFO - [2022-08-22 00:40:46,084] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:40:46,393] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:40:46,403] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.339 seconds
+[2022-08-22 00:41:16,528] {processor.py:153} INFO - Started process (PID=3512) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:41:16,528] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:41:16,529] {logging_mixin.py:115} INFO - [2022-08-22 00:41:16,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:41:16,860] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:41:16,875] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.350 seconds
+[2022-08-22 00:41:47,030] {processor.py:153} INFO - Started process (PID=3545) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:41:47,031] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:41:47,031] {logging_mixin.py:115} INFO - [2022-08-22 00:41:47,031] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:41:47,366] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:41:47,377] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.351 seconds
+[2022-08-22 00:42:17,537] {processor.py:153} INFO - Started process (PID=3578) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:42:17,538] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:42:17,539] {logging_mixin.py:115} INFO - [2022-08-22 00:42:17,538] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:42:17,847] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:42:17,861] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.327 seconds
+[2022-08-22 00:42:47,994] {processor.py:153} INFO - Started process (PID=3602) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:42:47,999] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:42:47,999] {logging_mixin.py:115} INFO - [2022-08-22 00:42:47,999] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:42:48,309] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:42:48,326] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.336 seconds
+[2022-08-22 00:43:18,466] {processor.py:153} INFO - Started process (PID=3636) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:43:18,482] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:43:18,483] {logging_mixin.py:115} INFO - [2022-08-22 00:43:18,483] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:43:18,806] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:43:18,818] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.356 seconds
+[2022-08-22 00:43:48,947] {processor.py:153} INFO - Started process (PID=3660) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:43:48,965] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:43:48,966] {logging_mixin.py:115} INFO - [2022-08-22 00:43:48,966] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:43:49,305] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:43:49,316] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.374 seconds
+[2022-08-22 00:44:19,497] {processor.py:153} INFO - Started process (PID=3693) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:44:19,515] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:44:19,516] {logging_mixin.py:115} INFO - [2022-08-22 00:44:19,515] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:44:19,831] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:44:19,843] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.351 seconds
+[2022-08-22 00:44:49,975] {processor.py:153} INFO - Started process (PID=3726) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:44:49,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:44:49,981] {logging_mixin.py:115} INFO - [2022-08-22 00:44:49,981] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:44:50,352] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:44:50,365] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.392 seconds
+[2022-08-22 00:45:20,554] {processor.py:153} INFO - Started process (PID=3749) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:45:20,572] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:45:20,573] {logging_mixin.py:115} INFO - [2022-08-22 00:45:20,573] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:45:20,888] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:45:20,900] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.350 seconds
+[2022-08-22 00:45:50,998] {processor.py:153} INFO - Started process (PID=3782) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:45:51,013] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:45:51,013] {logging_mixin.py:115} INFO - [2022-08-22 00:45:51,013] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:45:51,312] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:45:51,323] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.330 seconds
+[2022-08-22 00:46:21,483] {processor.py:153} INFO - Started process (PID=3815) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:46:21,496] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:46:21,496] {logging_mixin.py:115} INFO - [2022-08-22 00:46:21,496] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:46:21,853] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:46:21,869] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.388 seconds
+[2022-08-22 00:46:51,983] {processor.py:153} INFO - Started process (PID=3839) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:46:52,021] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:46:52,022] {logging_mixin.py:115} INFO - [2022-08-22 00:46:52,021] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:46:52,329] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:46:52,340] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.361 seconds
+[2022-08-22 00:47:22,504] {processor.py:153} INFO - Started process (PID=3872) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:47:22,513] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:47:22,513] {logging_mixin.py:115} INFO - [2022-08-22 00:47:22,513] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:47:22,803] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:47:22,814] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.314 seconds
+[2022-08-22 00:47:53,005] {processor.py:153} INFO - Started process (PID=3897) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:47:53,012] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:47:53,013] {logging_mixin.py:115} INFO - [2022-08-22 00:47:53,013] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:47:53,341] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:47:53,353] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.352 seconds
+[2022-08-22 00:48:23,479] {processor.py:153} INFO - Started process (PID=3930) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:48:23,495] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:48:23,496] {logging_mixin.py:115} INFO - [2022-08-22 00:48:23,496] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:48:23,802] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:48:23,815] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.338 seconds
+[2022-08-22 00:48:53,957] {processor.py:153} INFO - Started process (PID=3963) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:48:53,962] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:48:53,962] {logging_mixin.py:115} INFO - [2022-08-22 00:48:53,962] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:48:54,260] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:48:54,276] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.323 seconds
+[2022-08-22 00:49:24,413] {processor.py:153} INFO - Started process (PID=3988) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:49:24,438] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:49:24,438] {logging_mixin.py:115} INFO - [2022-08-22 00:49:24,438] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:49:24,746] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:49:24,760] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.352 seconds
+[2022-08-22 00:49:54,856] {processor.py:153} INFO - Started process (PID=4021) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:49:54,869] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:49:54,869] {logging_mixin.py:115} INFO - [2022-08-22 00:49:54,869] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:49:55,218] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:49:55,227] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.376 seconds
+[2022-08-22 00:50:25,327] {processor.py:153} INFO - Started process (PID=4054) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:50:25,349] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:50:25,350] {logging_mixin.py:115} INFO - [2022-08-22 00:50:25,350] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:50:25,668] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:50:25,679] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.356 seconds
+[2022-08-22 00:50:55,857] {processor.py:153} INFO - Started process (PID=4078) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:50:55,868] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:50:55,869] {logging_mixin.py:115} INFO - [2022-08-22 00:50:55,869] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:50:56,204] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:50:56,217] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.362 seconds
+[2022-08-22 00:51:26,431] {processor.py:153} INFO - Started process (PID=4111) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:51:26,431] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:51:26,432] {logging_mixin.py:115} INFO - [2022-08-22 00:51:26,432] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:51:26,753] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:51:26,765] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.338 seconds
+[2022-08-22 00:51:56,898] {processor.py:153} INFO - Started process (PID=4135) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:51:56,909] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-22 00:51:56,910] {logging_mixin.py:115} INFO - [2022-08-22 00:51:56,910] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:51:57,242] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-22 00:51:57,253] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 0.357 seconds

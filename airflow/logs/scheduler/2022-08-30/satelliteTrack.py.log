@@ -1,0 +1,124 @@
+[2022-08-30 16:53:21,525] {processor.py:153} INFO - Started process (PID=52) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:53:21,526] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-30 16:53:21,526] {logging_mixin.py:115} INFO - [2022-08-30 16:53:21,526] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:53:31,434] {logging_mixin.py:115} INFO - Completed session
+[2022-08-30 16:53:32,003] {logging_mixin.py:115} INFO - ccsds_omm_vers
+[2022-08-30 16:53:32,199] {logging_mixin.py:115} INFO - comment
+[2022-08-30 16:53:32,225] {logging_mixin.py:115} INFO - creation_date
+[2022-08-30 16:53:32,247] {logging_mixin.py:115} INFO - originator
+[2022-08-30 16:53:32,270] {logging_mixin.py:115} INFO - object_name
+[2022-08-30 16:53:32,293] {logging_mixin.py:115} INFO - object_id
+[2022-08-30 16:53:32,316] {logging_mixin.py:115} INFO - center_name
+[2022-08-30 16:53:32,338] {logging_mixin.py:115} INFO - ref_frame
+[2022-08-30 16:53:32,360] {logging_mixin.py:115} INFO - time_system
+[2022-08-30 16:53:32,384] {logging_mixin.py:115} INFO - mean_element_theory
+[2022-08-30 16:53:32,405] {logging_mixin.py:115} INFO - epoch
+[2022-08-30 16:53:32,428] {logging_mixin.py:115} INFO - mean_motion
+[2022-08-30 16:53:32,452] {logging_mixin.py:115} INFO - eccentricity
+[2022-08-30 16:53:32,476] {logging_mixin.py:115} INFO - inclination
+[2022-08-30 16:53:32,500] {logging_mixin.py:115} INFO - ra_of_asc_node
+[2022-08-30 16:53:32,524] {logging_mixin.py:115} INFO - arg_of_pericenter
+[2022-08-30 16:53:32,548] {logging_mixin.py:115} INFO - mean_anomaly
+[2022-08-30 16:53:32,572] {logging_mixin.py:115} INFO - ephemeris_type
+[2022-08-30 16:53:32,595] {logging_mixin.py:115} INFO - classification_type
+[2022-08-30 16:53:32,620] {logging_mixin.py:115} INFO - norad_cat_id
+[2022-08-30 16:53:32,644] {logging_mixin.py:115} INFO - element_set_no
+[2022-08-30 16:53:32,667] {logging_mixin.py:115} INFO - rev_at_epoch
+[2022-08-30 16:53:32,689] {logging_mixin.py:115} INFO - bstar
+[2022-08-30 16:53:32,713] {logging_mixin.py:115} INFO - mean_motion_dot
+[2022-08-30 16:53:32,734] {logging_mixin.py:115} INFO - mean_motion_ddot
+[2022-08-30 16:53:32,749] {logging_mixin.py:115} INFO - semimajor_axis
+[2022-08-30 16:53:32,764] {logging_mixin.py:115} INFO - period
+[2022-08-30 16:53:32,780] {logging_mixin.py:115} INFO - apoapsis
+[2022-08-30 16:53:32,802] {logging_mixin.py:115} INFO - periapsis
+[2022-08-30 16:53:32,821] {logging_mixin.py:115} INFO - object_type
+[2022-08-30 16:53:32,843] {logging_mixin.py:115} INFO - rcs_size
+[2022-08-30 16:53:32,867] {logging_mixin.py:115} INFO - country_code
+[2022-08-30 16:53:32,889] {logging_mixin.py:115} INFO - launch_date
+[2022-08-30 16:53:32,912] {logging_mixin.py:115} INFO - site
+[2022-08-30 16:53:32,935] {logging_mixin.py:115} INFO - decay_date
+[2022-08-30 16:53:32,957] {logging_mixin.py:115} INFO - file
+[2022-08-30 16:53:32,974] {logging_mixin.py:115} INFO - gp_id
+[2022-08-30 16:53:32,990] {logging_mixin.py:115} INFO - tle_line0
+[2022-08-30 16:53:33,005] {logging_mixin.py:115} INFO - tle_line1
+[2022-08-30 16:53:33,024] {logging_mixin.py:115} INFO - tle_line2
+[2022-08-30 16:53:34,703] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:53:34,717] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 13.194 seconds
+[2022-08-30 16:54:06,099] {processor.py:153} INFO - Started process (PID=75) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:54:06,258] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-30 16:54:06,259] {logging_mixin.py:115} INFO - [2022-08-30 16:54:06,259] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:54:36,552] {logging_mixin.py:115} INFO - [2022-08-30 16:54:36,552] {timeout.py:67} ERROR - Process timed out, PID: 75
+[2022-08-30 16:54:38,467] {logging_mixin.py:115} INFO - [2022-08-30 16:54:36,742] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/satelliteTrack.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/satelliteTrack.py", line 109, in <module>
+    load_satellite_data()
+  File "/opt/airflow/dags/satelliteTrack.py", line 88, in load_satellite_data
+    data = api_call()
+  File "/opt/airflow/dags/satelliteTrack.py", line 73, in api_call
+    data = pd.read_json(resp.text)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 614, in read_json
+    return json_reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 748, in read
+    obj = self._get_object_parser(self.data)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 770, in _get_object_parser
+    obj = FrameParser(json, **kwargs).parse()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 890, in parse
+    self._convert_axes()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 911, in _convert_axes
+    convert_dates=True,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 953, in _try_convert_data
+    new_data, result = self._try_convert_to_date(data)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 1027, in _try_convert_to_date
+    if not in_range.all():
+  File "/home/airflow/.local/lib/python3.7/site-packages/numpy/core/_methods.py", line 63, in _all
+    return umr_all(a, axis, dtype, out, keepdims)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/satelliteTrack.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 75
+[2022-08-30 16:54:38,541] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:54:38,892] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 32.798 seconds
+[2022-08-30 16:55:18,748] {processor.py:153} INFO - Started process (PID=108) to work on /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:55:18,980] {processor.py:641} INFO - Processing file /opt/airflow/dags/satelliteTrack.py for tasks to queue
+[2022-08-30 16:55:18,980] {logging_mixin.py:115} INFO - [2022-08-30 16:55:18,980] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:56:05,638] {logging_mixin.py:115} INFO - [2022-08-30 16:56:05,637] {timeout.py:67} ERROR - Process timed out, PID: 108
+[2022-08-30 16:56:06,631] {logging_mixin.py:115} INFO - [2022-08-30 16:56:05,901] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/satelliteTrack.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/satelliteTrack.py", line 33, in <module>
+    import pandas as pd
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/__init__.py", line 15, in <module>
+    from pandas.compat.numpy import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/numpy/__init__.py", line 7, in <module>
+    from pandas.util.version import Version
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/__init__.py", line 1, in <module>
+    from pandas.util._decorators import (  # noqa
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 14, in <module>
+    from pandas._libs.properties import cache_readonly  # noqa
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/_libs/__init__.py", line 13, in <module>
+    from pandas._libs.interval import Interval
+  File "pandas/_libs/interval.pyx", line 1, in init pandas._libs.interval
+  File "<frozen importlib._bootstrap>", line 978, in _find_and_load
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/satelliteTrack.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 108
+[2022-08-30 16:56:06,632] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/satelliteTrack.py
+[2022-08-30 16:56:06,939] {processor.py:161} INFO - Processing /opt/airflow/dags/satelliteTrack.py took 48.261 seconds

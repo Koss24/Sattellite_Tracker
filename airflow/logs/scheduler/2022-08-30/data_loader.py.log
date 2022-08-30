@@ -1,0 +1,126 @@
+[2022-08-30 16:53:21,526] {processor.py:153} INFO - Started process (PID=51) to work on /opt/airflow/dags/data_loader.py
+[2022-08-30 16:53:21,526] {processor.py:641} INFO - Processing file /opt/airflow/dags/data_loader.py for tasks to queue
+[2022-08-30 16:53:21,527] {logging_mixin.py:115} INFO - [2022-08-30 16:53:21,527] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/data_loader.py
+[2022-08-30 16:53:31,443] {logging_mixin.py:115} INFO - Completed session
+[2022-08-30 16:53:32,003] {logging_mixin.py:115} INFO - ccsds_omm_vers
+[2022-08-30 16:53:32,199] {logging_mixin.py:115} INFO - comment
+[2022-08-30 16:53:32,217] {logging_mixin.py:115} INFO - creation_date
+[2022-08-30 16:53:32,240] {logging_mixin.py:115} INFO - originator
+[2022-08-30 16:53:32,260] {logging_mixin.py:115} INFO - object_name
+[2022-08-30 16:53:32,277] {logging_mixin.py:115} INFO - object_id
+[2022-08-30 16:53:32,293] {logging_mixin.py:115} INFO - center_name
+[2022-08-30 16:53:32,312] {logging_mixin.py:115} INFO - ref_frame
+[2022-08-30 16:53:32,334] {logging_mixin.py:115} INFO - time_system
+[2022-08-30 16:53:32,356] {logging_mixin.py:115} INFO - mean_element_theory
+[2022-08-30 16:53:32,373] {logging_mixin.py:115} INFO - epoch
+[2022-08-30 16:53:32,394] {logging_mixin.py:115} INFO - mean_motion
+[2022-08-30 16:53:32,416] {logging_mixin.py:115} INFO - eccentricity
+[2022-08-30 16:53:32,440] {logging_mixin.py:115} INFO - inclination
+[2022-08-30 16:53:32,461] {logging_mixin.py:115} INFO - ra_of_asc_node
+[2022-08-30 16:53:32,477] {logging_mixin.py:115} INFO - arg_of_pericenter
+[2022-08-30 16:53:32,493] {logging_mixin.py:115} INFO - mean_anomaly
+[2022-08-30 16:53:32,509] {logging_mixin.py:115} INFO - ephemeris_type
+[2022-08-30 16:53:32,529] {logging_mixin.py:115} INFO - classification_type
+[2022-08-30 16:53:32,554] {logging_mixin.py:115} INFO - norad_cat_id
+[2022-08-30 16:53:32,571] {logging_mixin.py:115} INFO - element_set_no
+[2022-08-30 16:53:32,586] {logging_mixin.py:115} INFO - rev_at_epoch
+[2022-08-30 16:53:32,603] {logging_mixin.py:115} INFO - bstar
+[2022-08-30 16:53:32,628] {logging_mixin.py:115} INFO - mean_motion_dot
+[2022-08-30 16:53:32,654] {logging_mixin.py:115} INFO - mean_motion_ddot
+[2022-08-30 16:53:32,677] {logging_mixin.py:115} INFO - semimajor_axis
+[2022-08-30 16:53:32,699] {logging_mixin.py:115} INFO - period
+[2022-08-30 16:53:32,722] {logging_mixin.py:115} INFO - apoapsis
+[2022-08-30 16:53:32,746] {logging_mixin.py:115} INFO - periapsis
+[2022-08-30 16:53:32,770] {logging_mixin.py:115} INFO - object_type
+[2022-08-30 16:53:32,793] {logging_mixin.py:115} INFO - rcs_size
+[2022-08-30 16:53:32,815] {logging_mixin.py:115} INFO - country_code
+[2022-08-30 16:53:32,839] {logging_mixin.py:115} INFO - launch_date
+[2022-08-30 16:53:32,862] {logging_mixin.py:115} INFO - site
+[2022-08-30 16:53:32,885] {logging_mixin.py:115} INFO - decay_date
+[2022-08-30 16:53:32,907] {logging_mixin.py:115} INFO - file
+[2022-08-30 16:53:32,930] {logging_mixin.py:115} INFO - gp_id
+[2022-08-30 16:53:32,952] {logging_mixin.py:115} INFO - tle_line0
+[2022-08-30 16:53:32,975] {logging_mixin.py:115} INFO - tle_line1
+[2022-08-30 16:53:32,999] {logging_mixin.py:115} INFO - tle_line2
+[2022-08-30 16:53:33,802] {processor.py:651} INFO - DAG(s) dict_keys(['Satellite_Data']) retrieved from /opt/airflow/dags/data_loader.py
+[2022-08-30 16:53:34,873] {logging_mixin.py:115} INFO - [2022-08-30 16:53:34,873] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-30 16:53:35,301] {logging_mixin.py:115} INFO - [2022-08-30 16:53:35,301] {dag.py:2972} INFO - Setting next_dagrun for Satellite_Data to 2022-08-30T16:53:21.965962+00:00, run_after=2022-08-31T16:53:21.965962+00:00
+[2022-08-30 16:53:35,445] {processor.py:161} INFO - Processing /opt/airflow/dags/data_loader.py took 13.925 seconds
+[2022-08-30 16:54:06,099] {processor.py:153} INFO - Started process (PID=76) to work on /opt/airflow/dags/data_loader.py
+[2022-08-30 16:54:06,258] {processor.py:641} INFO - Processing file /opt/airflow/dags/data_loader.py for tasks to queue
+[2022-08-30 16:54:06,259] {logging_mixin.py:115} INFO - [2022-08-30 16:54:06,259] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/data_loader.py
+[2022-08-30 16:54:36,552] {logging_mixin.py:115} INFO - [2022-08-30 16:54:36,552] {timeout.py:67} ERROR - Process timed out, PID: 76
+[2022-08-30 16:54:38,466] {logging_mixin.py:115} INFO - [2022-08-30 16:54:36,732] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/data_loader.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/data_loader.py", line 12, in <module>
+    from satelliteTrack import api_call, load_satellite_data
+  File "/opt/airflow/dags/satelliteTrack.py", line 109, in <module>
+    load_satellite_data()
+  File "/opt/airflow/dags/satelliteTrack.py", line 88, in load_satellite_data
+    data = api_call()
+  File "/opt/airflow/dags/satelliteTrack.py", line 73, in api_call
+    data = pd.read_json(resp.text)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 614, in read_json
+    return json_reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 748, in read
+    obj = self._get_object_parser(self.data)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 770, in _get_object_parser
+    obj = FrameParser(json, **kwargs).parse()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 890, in parse
+    self._convert_axes()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 911, in _convert_axes
+    convert_dates=True,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 953, in _try_convert_data
+    new_data, result = self._try_convert_to_date(data)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 1027, in _try_convert_to_date
+    if not in_range.all():
+  File "/home/airflow/.local/lib/python3.7/site-packages/numpy/core/_methods.py", line 63, in _all
+    return umr_all(a, axis, dtype, out, keepdims)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/data_loader.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 76
+[2022-08-30 16:54:38,540] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/data_loader.py
+[2022-08-30 16:54:39,078] {processor.py:161} INFO - Processing /opt/airflow/dags/data_loader.py took 32.983 seconds
+[2022-08-30 16:55:09,564] {processor.py:153} INFO - Started process (PID=107) to work on /opt/airflow/dags/data_loader.py
+[2022-08-30 16:55:09,771] {processor.py:641} INFO - Processing file /opt/airflow/dags/data_loader.py for tasks to queue
+[2022-08-30 16:55:09,772] {logging_mixin.py:115} INFO - [2022-08-30 16:55:09,772] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/data_loader.py
+[2022-08-30 16:55:39,879] {logging_mixin.py:115} INFO - [2022-08-30 16:55:39,878] {timeout.py:67} ERROR - Process timed out, PID: 107
+[2022-08-30 16:55:44,607] {logging_mixin.py:115} INFO - [2022-08-30 16:55:40,495] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/data_loader.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/data_loader.py", line 8, in <module>
+    import pandas as pd
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/__init__.py", line 23, in <module>
+    from pandas.compat.pyarrow import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/pyarrow.py", line 6, in <module>
+    import pyarrow as pa
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyarrow/__init__.py", line 182, in <module>
+    from pyarrow._hdfsio import HdfsFile, have_libhdfs
+  File "<frozen importlib._bootstrap>", line 416, in parent
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/data_loader.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 107
+[2022-08-30 16:55:44,608] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/data_loader.py
+[2022-08-30 16:55:44,860] {processor.py:161} INFO - Processing /opt/airflow/dags/data_loader.py took 35.300 seconds
+[2022-08-30 16:56:14,955] {processor.py:153} INFO - Started process (PID=126) to work on /opt/airflow/dags/data_loader.py
+[2022-08-30 16:56:15,269] {processor.py:641} INFO - Processing file /opt/airflow/dags/data_loader.py for tasks to queue
+[2022-08-30 16:56:15,270] {logging_mixin.py:115} INFO - [2022-08-30 16:56:15,270] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/data_loader.py

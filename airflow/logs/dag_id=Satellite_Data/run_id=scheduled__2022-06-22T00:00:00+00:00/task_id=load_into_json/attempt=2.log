@@ -1,0 +1,68 @@
+[2022-08-18 16:27:16,048] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.load_into_json scheduled__2022-06-22T00:00:00+00:00 [queued]>
+[2022-08-18 16:27:16,081] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.load_into_json scheduled__2022-06-22T00:00:00+00:00 [queued]>
+[2022-08-18 16:27:16,081] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-18 16:27:16,081] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-08-18 16:27:16,081] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-18 16:27:16,131] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): load_into_json> on 2022-06-22 00:00:00+00:00
+[2022-08-18 16:27:16,159] {standard_task_runner.py:52} INFO - Started process 714 to run task
+[2022-08-18 16:27:16,166] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'Satellite_Data', 'load_into_json', 'scheduled__2022-06-22T00:00:00+00:00', '--job-id', '42', '--raw', '--subdir', 'DAGS_FOLDER/data_loader.py', '--cfg-path', '/tmp/tmpmcv6w9yv', '--error-file', '/tmp/tmpa6rj3zci']
+[2022-08-18 16:27:16,166] {standard_task_runner.py:80} INFO - Job 42: Subtask load_into_json
+[2022-08-18 16:27:16,321] {task_command.py:371} INFO - Running <TaskInstance: Satellite_Data.load_into_json scheduled__2022-06-22T00:00:00+00:00 [running]> on host b4db7d4790c9
+[2022-08-18 16:27:16,436] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Satellite_Data
+AIRFLOW_CTX_TASK_ID=load_into_json
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-22T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-22T00:00:00+00:00
+[2022-08-18 16:27:16,437] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-08-18 16:27:16,452] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python3 /opt/***/dags/satelliteTrack.py']
+[2022-08-18 16:27:16,468] {subprocess.py:85} INFO - Output:
+[2022-08-18 16:27:29,557] {subprocess.py:92} INFO - Completed session
+[2022-08-18 16:27:29,557] {subprocess.py:92} INFO - ccsds_omm_vers
+[2022-08-18 16:27:29,557] {subprocess.py:92} INFO - comment
+[2022-08-18 16:27:29,557] {subprocess.py:92} INFO - creation_date
+[2022-08-18 16:27:29,557] {subprocess.py:92} INFO - originator
+[2022-08-18 16:27:29,557] {subprocess.py:92} INFO - object_name
+[2022-08-18 16:27:29,557] {subprocess.py:92} INFO - object_id
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - center_name
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - ref_frame
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - time_system
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - mean_element_theory
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - epoch
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - mean_motion
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - eccentricity
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - inclination
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - ra_of_asc_node
+[2022-08-18 16:27:29,558] {subprocess.py:92} INFO - arg_of_pericenter
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - mean_anomaly
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - ephemeris_type
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - classification_type
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - norad_cat_id
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - element_set_no
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - rev_at_epoch
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - bstar
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - mean_motion_dot
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - mean_motion_ddot
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - semimajor_axis
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - period
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - apoapsis
+[2022-08-18 16:27:29,559] {subprocess.py:92} INFO - periapsis
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - object_type
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - rcs_size
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - country_code
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - launch_date
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - site
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - decay_date
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - file
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - gp_id
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - tle_line0
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - tle_line1
+[2022-08-18 16:27:29,560] {subprocess.py:92} INFO - tle_line2
+[2022-08-18 16:27:29,840] {subprocess.py:96} INFO - Command exited with return code 0
+[2022-08-18 16:27:29,920] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=Satellite_Data, task_id=load_into_json, execution_date=20220622T000000, start_date=20220818T162716, end_date=20220818T162729
+[2022-08-18 16:27:29,967] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-08-18 16:27:30,018] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,42 @@
+[2022-08-19 18:24:55,875] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.stream_generator manual__2022-08-19T18:19:26.975904+00:00 [queued]>
+[2022-08-19 18:24:55,890] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.stream_generator manual__2022-08-19T18:19:26.975904+00:00 [queued]>
+[2022-08-19 18:24:55,890] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-19 18:24:55,890] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-08-19 18:24:55,890] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-19 18:24:55,916] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): stream_generator> on 2022-08-19 18:19:26.975904+00:00
+[2022-08-19 18:24:55,922] {standard_task_runner.py:52} INFO - Started process 1116 to run task
+[2022-08-19 18:24:55,926] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'Satellite_Data', 'stream_generator', 'manual__2022-08-19T18:19:26.975904+00:00', '--job-id', '131', '--raw', '--subdir', 'DAGS_FOLDER/data_loader.py', '--cfg-path', '/tmp/tmpd21izu05', '--error-file', '/tmp/tmp2emzoury']
+[2022-08-19 18:24:55,926] {standard_task_runner.py:80} INFO - Job 131: Subtask stream_generator
+[2022-08-19 18:24:56,009] {task_command.py:371} INFO - Running <TaskInstance: Satellite_Data.stream_generator manual__2022-08-19T18:19:26.975904+00:00 [running]> on host 3a5c2d0be6af
+[2022-08-19 18:24:56,131] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Satellite_Data
+AIRFLOW_CTX_TASK_ID=stream_generator
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-19T18:19:26.975904+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-08-19T18:19:26.975904+00:00
+[2022-08-19 18:24:56,780] {logging_mixin.py:115} INFO - {'satname': {0: 'Starlink', 1: 'Space Station'}, 'lat': [27, 12], 'lon': [53, 34]}
+[2022-08-19 18:24:56,780] {logging_mixin.py:115} INFO - {'satname': {}, 'id': {}, 'lat': {}, 'lon': {}}
+[2022-08-19 18:24:56,783] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 98, in run_stream_generator
+    p = Pool()
+  File "/usr/local/lib/python3.7/multiprocessing/context.py", line 119, in Pool
+    context=self.get_context())
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 176, in __init__
+    self._repopulate_pool()
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 241, in _repopulate_pool
+    w.start()
+  File "/usr/local/lib/python3.7/multiprocessing/process.py", line 110, in start
+    'daemonic processes are not allowed to have children'
+AssertionError: daemonic processes are not allowed to have children
+[2022-08-19 18:24:56,797] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=Satellite_Data, task_id=stream_generator, execution_date=20220819T181926, start_date=20220819T182455, end_date=20220819T182456
+[2022-08-19 18:24:56,833] {standard_task_runner.py:97} ERROR - Failed to execute job 131 for task stream_generator (daemonic processes are not allowed to have children; 1116)
+[2022-08-19 18:24:56,858] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-08-19 18:24:56,907] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

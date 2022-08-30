@@ -1,0 +1,170 @@
+[2022-08-21 23:42:45,531] {processor.py:153} INFO - Started process (PID=115) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:42:45,531] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:42:45,531] {logging_mixin.py:115} INFO - [2022-08-21 23:42:45,531] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:42:45,885] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:42:45,896] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.368 seconds
+[2022-08-21 23:43:16,081] {processor.py:153} INFO - Started process (PID=148) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:43:16,096] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:43:16,096] {logging_mixin.py:115} INFO - [2022-08-21 23:43:16,096] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:43:16,370] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:43:16,381] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.304 seconds
+[2022-08-21 23:43:46,466] {processor.py:153} INFO - Started process (PID=171) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:43:46,487] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:43:46,488] {logging_mixin.py:115} INFO - [2022-08-21 23:43:46,488] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:43:46,763] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:43:46,772] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.310 seconds
+[2022-08-21 23:44:16,874] {processor.py:153} INFO - Started process (PID=205) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:44:16,887] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:44:16,887] {logging_mixin.py:115} INFO - [2022-08-21 23:44:16,887] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:44:17,201] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:44:17,217] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.347 seconds
+[2022-08-21 23:44:47,333] {processor.py:153} INFO - Started process (PID=238) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:44:47,361] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:44:47,362] {logging_mixin.py:115} INFO - [2022-08-21 23:44:47,362] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:44:47,674] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:44:47,687] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.358 seconds
+[2022-08-21 23:45:17,773] {processor.py:153} INFO - Started process (PID=261) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:45:17,794] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:45:17,794] {logging_mixin.py:115} INFO - [2022-08-21 23:45:17,794] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:45:18,087] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:45:18,102] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.333 seconds
+[2022-08-21 23:45:48,200] {processor.py:153} INFO - Started process (PID=294) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:45:48,219] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:45:48,219] {logging_mixin.py:115} INFO - [2022-08-21 23:45:48,219] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:45:48,528] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:45:48,539] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.342 seconds
+[2022-08-21 23:46:18,626] {processor.py:153} INFO - Started process (PID=328) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:46:18,660] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:46:18,661] {logging_mixin.py:115} INFO - [2022-08-21 23:46:18,661] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:46:18,982] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:46:18,995] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.372 seconds
+[2022-08-21 23:46:49,080] {processor.py:153} INFO - Started process (PID=352) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:46:49,102] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:46:49,102] {logging_mixin.py:115} INFO - [2022-08-21 23:46:49,102] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:46:49,403] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:46:49,417] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.341 seconds
+[2022-08-21 23:47:19,506] {processor.py:153} INFO - Started process (PID=385) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:47:19,542] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:47:19,543] {logging_mixin.py:115} INFO - [2022-08-21 23:47:19,543] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:47:19,947] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:47:19,958] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.456 seconds
+[2022-08-21 23:47:50,086] {processor.py:153} INFO - Started process (PID=410) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:47:50,101] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:47:50,102] {logging_mixin.py:115} INFO - [2022-08-21 23:47:50,102] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:47:50,403] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:47:50,414] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.332 seconds
+[2022-08-21 23:48:20,996] {processor.py:153} INFO - Started process (PID=434) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:48:21,050] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:48:21,068] {logging_mixin.py:115} INFO - [2022-08-21 23:48:21,068] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:48:21,707] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:48:21,750] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.756 seconds
+[2022-08-21 23:48:51,858] {processor.py:153} INFO - Started process (PID=467) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:48:51,861] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:48:51,861] {logging_mixin.py:115} INFO - [2022-08-21 23:48:51,861] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:48:52,187] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:48:52,201] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.348 seconds
+[2022-08-21 23:49:22,304] {processor.py:153} INFO - Started process (PID=501) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:49:22,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:49:22,333] {logging_mixin.py:115} INFO - [2022-08-21 23:49:22,333] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:49:22,645] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:49:22,656] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.354 seconds
+[2022-08-21 23:49:52,756] {processor.py:153} INFO - Started process (PID=525) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:49:52,807] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:49:52,808] {logging_mixin.py:115} INFO - [2022-08-21 23:49:52,808] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:49:53,125] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:49:53,141] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.389 seconds
+[2022-08-21 23:50:23,232] {processor.py:153} INFO - Started process (PID=558) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:50:23,257] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:50:23,257] {logging_mixin.py:115} INFO - [2022-08-21 23:50:23,257] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:50:23,552] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:50:23,565] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.338 seconds
+[2022-08-21 23:50:53,657] {processor.py:153} INFO - Started process (PID=582) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:50:53,681] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:50:53,682] {logging_mixin.py:115} INFO - [2022-08-21 23:50:53,682] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:50:54,023] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:50:54,037] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.382 seconds
+[2022-08-21 23:51:24,117] {processor.py:153} INFO - Started process (PID=615) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:51:24,130] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:51:24,131] {logging_mixin.py:115} INFO - [2022-08-21 23:51:24,131] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:51:24,408] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:51:24,423] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.310 seconds
+[2022-08-21 23:51:54,514] {processor.py:153} INFO - Started process (PID=648) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:51:54,530] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:51:54,531] {logging_mixin.py:115} INFO - [2022-08-21 23:51:54,531] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:51:54,837] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:51:54,850] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.341 seconds
+[2022-08-21 23:52:24,953] {processor.py:153} INFO - Started process (PID=672) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:52:24,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:52:24,972] {logging_mixin.py:115} INFO - [2022-08-21 23:52:24,972] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:52:25,269] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:52:25,285] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.337 seconds
+[2022-08-21 23:52:55,380] {processor.py:153} INFO - Started process (PID=705) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:52:55,397] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:52:55,398] {logging_mixin.py:115} INFO - [2022-08-21 23:52:55,397] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:52:55,704] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:52:55,715] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.338 seconds
+[2022-08-21 23:53:25,807] {processor.py:153} INFO - Started process (PID=737) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:53:25,829] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:53:25,830] {logging_mixin.py:115} INFO - [2022-08-21 23:53:25,830] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:53:26,233] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:53:26,253] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.449 seconds
+[2022-08-21 23:53:56,423] {processor.py:153} INFO - Started process (PID=761) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:53:56,462] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:53:56,463] {logging_mixin.py:115} INFO - [2022-08-21 23:53:56,463] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:53:57,569] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:53:57,686] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 1.267 seconds
+[2022-08-21 23:54:27,849] {processor.py:153} INFO - Started process (PID=785) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:54:27,870] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:54:27,871] {logging_mixin.py:115} INFO - [2022-08-21 23:54:27,871] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:54:29,340] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:54:29,369] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 1.551 seconds
+[2022-08-21 23:55:00,039] {processor.py:153} INFO - Started process (PID=818) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:55:00,095] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:55:00,096] {logging_mixin.py:115} INFO - [2022-08-21 23:55:00,096] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:55:00,569] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:55:00,579] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.632 seconds
+[2022-08-21 23:55:30,722] {processor.py:153} INFO - Started process (PID=842) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:55:30,744] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:55:30,745] {logging_mixin.py:115} INFO - [2022-08-21 23:55:30,745] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:55:31,023] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:55:31,033] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.317 seconds
+[2022-08-21 23:56:01,147] {processor.py:153} INFO - Started process (PID=875) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:56:01,169] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:56:01,170] {logging_mixin.py:115} INFO - [2022-08-21 23:56:01,170] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:56:01,473] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:56:01,484] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.342 seconds
+[2022-08-21 23:56:31,591] {processor.py:153} INFO - Started process (PID=908) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:56:31,610] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:56:31,610] {logging_mixin.py:115} INFO - [2022-08-21 23:56:31,610] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:56:32,004] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:56:32,017] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.430 seconds
+[2022-08-21 23:57:02,147] {processor.py:153} INFO - Started process (PID=932) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:57:02,176] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:57:02,176] {logging_mixin.py:115} INFO - [2022-08-21 23:57:02,176] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:57:02,693] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:57:02,780] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.637 seconds
+[2022-08-21 23:57:32,855] {processor.py:153} INFO - Started process (PID=966) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:57:32,901] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:57:32,902] {logging_mixin.py:115} INFO - [2022-08-21 23:57:32,902] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:57:33,222] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:57:33,238] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.387 seconds
+[2022-08-21 23:58:03,316] {processor.py:153} INFO - Started process (PID=991) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:58:03,342] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:58:03,343] {logging_mixin.py:115} INFO - [2022-08-21 23:58:03,343] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:58:03,689] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:58:03,704] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.393 seconds
+[2022-08-21 23:58:33,780] {processor.py:153} INFO - Started process (PID=1024) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:58:33,833] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:58:33,834] {logging_mixin.py:115} INFO - [2022-08-21 23:58:33,834] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:58:34,178] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:58:34,196] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.418 seconds
+[2022-08-21 23:59:04,272] {processor.py:153} INFO - Started process (PID=1048) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:59:04,287] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:59:04,288] {logging_mixin.py:115} INFO - [2022-08-21 23:59:04,288] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:59:04,643] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:59:04,654] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.384 seconds
+[2022-08-21 23:59:34,730] {processor.py:153} INFO - Started process (PID=1080) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:59:34,745] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-21 23:59:34,746] {logging_mixin.py:115} INFO - [2022-08-21 23:59:34,746] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:59:35,167] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-21 23:59:35,177] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 0.451 seconds

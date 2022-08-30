@@ -1,0 +1,34 @@
+[2022-08-19 18:04:34,046] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.stream_generator scheduled__2022-08-18T16:32:25.188706+00:00 [queued]>
+[2022-08-19 18:04:34,058] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.stream_generator scheduled__2022-08-18T16:32:25.188706+00:00 [queued]>
+[2022-08-19 18:04:34,058] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-19 18:04:34,058] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-08-19 18:04:34,058] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-19 18:04:34,080] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): stream_generator> on 2022-08-18 16:32:25.188706+00:00
+[2022-08-19 18:04:34,088] {standard_task_runner.py:52} INFO - Started process 129 to run task
+[2022-08-19 18:04:34,090] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'Satellite_Data', 'stream_generator', 'scheduled__2022-08-18T16:32:25.188706+00:00', '--job-id', '123', '--raw', '--subdir', 'DAGS_FOLDER/data_loader.py', '--cfg-path', '/tmp/tmpvwr5rnal', '--error-file', '/tmp/tmpbp6xr452']
+[2022-08-19 18:04:34,090] {standard_task_runner.py:80} INFO - Job 123: Subtask stream_generator
+[2022-08-19 18:04:34,183] {task_command.py:371} INFO - Running <TaskInstance: Satellite_Data.stream_generator scheduled__2022-08-18T16:32:25.188706+00:00 [running]> on host 3a5c2d0be6af
+[2022-08-19 18:04:34,301] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Satellite_Data
+AIRFLOW_CTX_TASK_ID=stream_generator
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-18T16:32:25.188706+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-08-18T16:32:25.188706+00:00
+[2022-08-19 18:04:34,302] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-08-19 18:04:34,303] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python3 /home/L/Programming/dataEng/spaceApp/Streaming/streamGenerator.py']
+[2022-08-19 18:04:34,316] {subprocess.py:85} INFO - Output:
+[2022-08-19 18:04:34,434] {subprocess.py:92} INFO - python3: can't open file '/home/L/Programming/dataEng/spaceApp/Streaming/streamGenerator.py': [Errno 2] No such file or directory
+[2022-08-19 18:04:34,438] {subprocess.py:96} INFO - Command exited with return code 2
+[2022-08-19 18:04:34,457] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 195, in execute
+    f'Bash command failed. The command returned a non-zero exit code {result.exit_code}.'
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2022-08-19 18:04:34,461] {taskinstance.py:1420} INFO - Marking task as UP_FOR_RETRY. dag_id=Satellite_Data, task_id=stream_generator, execution_date=20220818T163225, start_date=20220819T180434, end_date=20220819T180434
+[2022-08-19 18:04:34,489] {standard_task_runner.py:97} ERROR - Failed to execute job 123 for task stream_generator (Bash command failed. The command returned a non-zero exit code 2.; 129)
+[2022-08-19 18:04:34,503] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-08-19 18:04:34,555] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,224 @@
+[2022-08-19 01:57:36,249] {processor.py:153} INFO - Started process (PID=633) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:57:36,250] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 01:57:36,250] {logging_mixin.py:115} INFO - [2022-08-19 01:57:36,250] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:57:36,256] {logging_mixin.py:115} INFO - [2022-08-19 01:57:36,255] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 01:57:36,256] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:57:36,279] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.035 seconds
+[2022-08-19 01:58:06,655] {processor.py:153} INFO - Started process (PID=658) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:58:06,665] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 01:58:06,666] {logging_mixin.py:115} INFO - [2022-08-19 01:58:06,666] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:58:06,670] {logging_mixin.py:115} INFO - [2022-08-19 01:58:06,668] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 01:58:06,670] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:58:06,712] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.061 seconds
+[2022-08-19 01:58:37,055] {processor.py:153} INFO - Started process (PID=692) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:58:37,081] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 01:58:37,082] {logging_mixin.py:115} INFO - [2022-08-19 01:58:37,082] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:58:37,086] {logging_mixin.py:115} INFO - [2022-08-19 01:58:37,085] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 01:58:37,087] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:58:37,120] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.070 seconds
+[2022-08-19 01:59:07,196] {processor.py:153} INFO - Started process (PID=717) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:59:07,214] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 01:59:07,215] {logging_mixin.py:115} INFO - [2022-08-19 01:59:07,215] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:59:07,219] {logging_mixin.py:115} INFO - [2022-08-19 01:59:07,218] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 01:59:07,219] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:59:07,345] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.151 seconds
+[2022-08-19 01:59:37,512] {processor.py:153} INFO - Started process (PID=751) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:59:37,527] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 01:59:37,528] {logging_mixin.py:115} INFO - [2022-08-19 01:59:37,528] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:59:37,532] {logging_mixin.py:115} INFO - [2022-08-19 01:59:37,531] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 01:59:37,533] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 01:59:37,570] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.062 seconds
+[2022-08-19 02:00:07,654] {processor.py:153} INFO - Started process (PID=785) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:00:07,655] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:00:07,655] {logging_mixin.py:115} INFO - [2022-08-19 02:00:07,655] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:00:07,659] {logging_mixin.py:115} INFO - [2022-08-19 02:00:07,658] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:00:07,660] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:00:07,711] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.062 seconds
+[2022-08-19 02:00:38,065] {processor.py:153} INFO - Started process (PID=808) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:00:38,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:00:38,085] {logging_mixin.py:115} INFO - [2022-08-19 02:00:38,085] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:00:38,089] {logging_mixin.py:115} INFO - [2022-08-19 02:00:38,088] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:00:38,090] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:00:38,136] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.075 seconds
+[2022-08-19 02:01:08,429] {processor.py:153} INFO - Started process (PID=842) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:01:08,440] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:01:08,441] {logging_mixin.py:115} INFO - [2022-08-19 02:01:08,441] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:01:08,445] {logging_mixin.py:115} INFO - [2022-08-19 02:01:08,444] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 2, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:01:08,445] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:01:08,485] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.061 seconds
+[2022-08-19 02:01:30,546] {processor.py:153} INFO - Started process (PID=865) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:01:30,565] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:01:30,565] {logging_mixin.py:115} INFO - [2022-08-19 02:01:30,565] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:01:30,569] {logging_mixin.py:115} INFO - [2022-08-19 02:01:30,568] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:01:30,569] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:01:30,610] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.067 seconds
+[2022-08-19 02:02:01,010] {processor.py:153} INFO - Started process (PID=891) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:02:01,023] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:02:01,023] {logging_mixin.py:115} INFO - [2022-08-19 02:02:01,023] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:02:01,027] {logging_mixin.py:115} INFO - [2022-08-19 02:02:01,026] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:02:01,028] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:02:01,068] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.063 seconds
+[2022-08-19 02:02:31,604] {processor.py:153} INFO - Started process (PID=925) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:02:31,617] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:02:31,618] {logging_mixin.py:115} INFO - [2022-08-19 02:02:31,618] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:02:31,622] {logging_mixin.py:115} INFO - [2022-08-19 02:02:31,621] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:02:31,622] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:02:31,668] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.068 seconds
+[2022-08-19 02:03:01,721] {processor.py:153} INFO - Started process (PID=959) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:03:01,733] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:03:01,734] {logging_mixin.py:115} INFO - [2022-08-19 02:03:01,734] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:03:01,735] {logging_mixin.py:115} INFO - [2022-08-19 02:03:01,735] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:03:01,735] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:03:01,775] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.059 seconds
+[2022-08-19 02:03:31,797] {processor.py:153} INFO - Started process (PID=981) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:03:31,808] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:03:31,808] {logging_mixin.py:115} INFO - [2022-08-19 02:03:31,808] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:03:31,812] {logging_mixin.py:115} INFO - [2022-08-19 02:03:31,810] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:03:31,812] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:03:31,850] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.057 seconds
+[2022-08-19 02:04:02,076] {processor.py:153} INFO - Started process (PID=1014) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:04:02,121] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:04:02,122] {logging_mixin.py:115} INFO - [2022-08-19 02:04:02,122] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:04:02,126] {logging_mixin.py:115} INFO - [2022-08-19 02:04:02,125] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:04:02,126] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:04:02,202] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.129 seconds
+[2022-08-19 02:04:32,443] {processor.py:153} INFO - Started process (PID=1049) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:04:32,479] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:04:32,479] {logging_mixin.py:115} INFO - [2022-08-19 02:04:32,479] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:04:32,482] {logging_mixin.py:115} INFO - [2022-08-19 02:04:32,481] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:04:32,483] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:04:32,541] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.102 seconds
+[2022-08-19 02:05:02,870] {processor.py:153} INFO - Started process (PID=1072) to work on /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:05:02,886] {processor.py:641} INFO - Processing file /opt/airflow/dags/streamGenerator.py for tasks to queue
+[2022-08-19 02:05:02,887] {logging_mixin.py:115} INFO - [2022-08-19 02:05:02,887] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:05:02,890] {logging_mixin.py:115} INFO - [2022-08-19 02:05:02,889] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:05:02,891] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/streamGenerator.py
+[2022-08-19 02:05:02,932] {processor.py:161} INFO - Processing /opt/airflow/dags/streamGenerator.py took 0.067 seconds

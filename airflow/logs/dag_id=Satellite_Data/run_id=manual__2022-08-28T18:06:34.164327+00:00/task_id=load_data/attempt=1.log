@@ -1,0 +1,23 @@
+[2022-08-28 18:06:47,145] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.load_data manual__2022-08-28T18:06:34.164327+00:00 [queued]>
+[2022-08-28 18:06:47,159] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Satellite_Data.load_data manual__2022-08-28T18:06:34.164327+00:00 [queued]>
+[2022-08-28 18:06:47,160] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-28 18:06:47,160] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-08-28 18:06:47,160] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-28 18:06:47,194] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): load_data> on 2022-08-28 18:06:34.164327+00:00
+[2022-08-28 18:06:47,200] {standard_task_runner.py:52} INFO - Started process 2550 to run task
+[2022-08-28 18:06:47,203] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'Satellite_Data', 'load_data', 'manual__2022-08-28T18:06:34.164327+00:00', '--job-id', '189', '--raw', '--subdir', 'DAGS_FOLDER/data_loader.py', '--cfg-path', '/tmp/tmphm95lz9a', '--error-file', '/tmp/tmp6ouqa1jw']
+[2022-08-28 18:06:47,204] {standard_task_runner.py:80} INFO - Job 189: Subtask load_data
+[2022-08-28 18:06:47,282] {task_command.py:371} INFO - Running <TaskInstance: Satellite_Data.load_data manual__2022-08-28T18:06:34.164327+00:00 [running]> on host b42bb8df931d
+[2022-08-28 18:06:47,521] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Satellite_Data
+AIRFLOW_CTX_TASK_ID=load_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-28T18:06:34.164327+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-08-28T18:06:34.164327+00:00
+[2022-08-28 18:06:58,397] {python.py:173} INFO - Done. Returned value was: None
+[2022-08-28 18:06:58,474] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=Satellite_Data, task_id=load_data, execution_date=20220828T180634, start_date=20220828T180647, end_date=20220828T180658
+[2022-08-28 18:06:58,562] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-08-28 18:06:58,621] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

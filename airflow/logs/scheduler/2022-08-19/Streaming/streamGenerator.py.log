@@ -1,0 +1,1662 @@
+[2022-08-19 02:09:59,677] {processor.py:153} INFO - Started process (PID=51) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:09:59,677] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:09:59,678] {logging_mixin.py:115} INFO - [2022-08-19 02:09:59,678] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:09:59,710] {logging_mixin.py:115} INFO - [2022-08-19 02:09:59,709] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:09:59,711] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:10:00,180] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.507 seconds
+[2022-08-19 02:10:30,484] {processor.py:153} INFO - Started process (PID=77) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:10:30,495] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:10:30,496] {logging_mixin.py:115} INFO - [2022-08-19 02:10:30,496] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:10:30,500] {logging_mixin.py:115} INFO - [2022-08-19 02:10:30,499] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:10:30,501] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:10:30,545] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.065 seconds
+[2022-08-19 02:11:00,736] {processor.py:153} INFO - Started process (PID=112) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:11:00,745] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:11:00,746] {logging_mixin.py:115} INFO - [2022-08-19 02:11:00,745] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:11:00,749] {logging_mixin.py:115} INFO - [2022-08-19 02:11:00,748] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:11:00,749] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:11:00,778] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.046 seconds
+[2022-08-19 02:11:30,886] {processor.py:153} INFO - Started process (PID=139) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:11:30,903] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:11:30,903] {logging_mixin.py:115} INFO - [2022-08-19 02:11:30,903] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:11:30,907] {logging_mixin.py:115} INFO - [2022-08-19 02:11:30,906] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:11:30,907] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:11:30,945] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.063 seconds
+[2022-08-19 02:12:01,096] {processor.py:153} INFO - Started process (PID=174) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:01,102] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:12:01,102] {logging_mixin.py:115} INFO - [2022-08-19 02:12:01,102] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:01,104] {logging_mixin.py:115} INFO - [2022-08-19 02:12:01,103] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:12:01,104] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:01,144] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.053 seconds
+[2022-08-19 02:12:14,196] {processor.py:153} INFO - Started process (PID=187) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:14,196] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:12:14,197] {logging_mixin.py:115} INFO - [2022-08-19 02:12:14,197] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:14,202] {logging_mixin.py:115} INFO - [2022-08-19 02:12:14,201] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:12:14,202] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:14,253] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.062 seconds
+[2022-08-19 02:12:44,413] {processor.py:153} INFO - Started process (PID=222) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:44,424] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:12:44,425] {logging_mixin.py:115} INFO - [2022-08-19 02:12:44,425] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:44,428] {logging_mixin.py:115} INFO - [2022-08-19 02:12:44,427] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:12:44,429] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:12:44,460] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.052 seconds
+[2022-08-19 02:13:14,572] {processor.py:153} INFO - Started process (PID=248) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:13:14,582] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:13:14,583] {logging_mixin.py:115} INFO - [2022-08-19 02:13:14,583] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:13:14,585] {logging_mixin.py:115} INFO - [2022-08-19 02:13:14,584] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:13:14,585] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:13:14,619] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.052 seconds
+[2022-08-19 02:13:44,638] {processor.py:153} INFO - Started process (PID=285) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:13:44,674] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:13:44,675] {logging_mixin.py:115} INFO - [2022-08-19 02:13:44,674] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:13:44,678] {logging_mixin.py:115} INFO - [2022-08-19 02:13:44,677] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:13:44,678] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:13:45,060] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.426 seconds
+[2022-08-19 02:14:15,201] {processor.py:153} INFO - Started process (PID=316) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:14:15,215] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:14:15,216] {logging_mixin.py:115} INFO - [2022-08-19 02:14:15,215] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:14:15,219] {logging_mixin.py:115} INFO - [2022-08-19 02:14:15,218] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:14:15,220] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:14:15,390] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.193 seconds
+[2022-08-19 02:14:45,727] {processor.py:153} INFO - Started process (PID=342) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:14:45,740] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:14:45,741] {logging_mixin.py:115} INFO - [2022-08-19 02:14:45,740] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:14:45,744] {logging_mixin.py:115} INFO - [2022-08-19 02:14:45,743] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:14:45,744] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:14:45,796] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.073 seconds
+[2022-08-19 02:15:15,927] {processor.py:153} INFO - Started process (PID=377) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:15:15,939] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:15:15,940] {logging_mixin.py:115} INFO - [2022-08-19 02:15:15,940] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:15:15,944] {logging_mixin.py:115} INFO - [2022-08-19 02:15:15,942] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:15:15,944] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:15:15,984] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.063 seconds
+[2022-08-19 02:15:46,197] {processor.py:153} INFO - Started process (PID=412) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:15:46,212] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:15:46,212] {logging_mixin.py:115} INFO - [2022-08-19 02:15:46,212] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:15:46,216] {logging_mixin.py:115} INFO - [2022-08-19 02:15:46,215] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:15:46,216] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:15:46,250] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.057 seconds
+[2022-08-19 02:16:16,425] {processor.py:153} INFO - Started process (PID=438) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:16:16,436] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:16:16,437] {logging_mixin.py:115} INFO - [2022-08-19 02:16:16,437] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:16:16,440] {logging_mixin.py:115} INFO - [2022-08-19 02:16:16,439] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:16:16,441] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:16:16,475] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.054 seconds
+[2022-08-19 02:16:47,318] {processor.py:153} INFO - Started process (PID=473) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:16:47,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:16:47,328] {logging_mixin.py:115} INFO - [2022-08-19 02:16:47,328] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:16:47,332] {logging_mixin.py:115} INFO - [2022-08-19 02:16:47,331] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:16:47,332] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:16:47,375] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.061 seconds
+[2022-08-19 02:17:17,527] {processor.py:153} INFO - Started process (PID=499) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:17:17,644] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:17:17,645] {logging_mixin.py:115} INFO - [2022-08-19 02:17:17,645] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:17:17,648] {logging_mixin.py:115} INFO - [2022-08-19 02:17:17,647] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:17:17,649] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:17:17,826] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.304 seconds
+[2022-08-19 02:17:47,909] {processor.py:153} INFO - Started process (PID=534) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:17:47,927] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:17:47,928] {logging_mixin.py:115} INFO - [2022-08-19 02:17:47,927] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:17:47,931] {logging_mixin.py:115} INFO - [2022-08-19 02:17:47,930] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:17:47,932] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:17:47,974] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.070 seconds
+[2022-08-19 02:18:18,747] {processor.py:153} INFO - Started process (PID=569) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:18:18,810] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:18:18,811] {logging_mixin.py:115} INFO - [2022-08-19 02:18:18,811] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:18:18,815] {logging_mixin.py:115} INFO - [2022-08-19 02:18:18,814] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:18:18,815] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:18:18,994] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.252 seconds
+[2022-08-19 02:18:49,072] {processor.py:153} INFO - Started process (PID=593) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:18:49,102] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:18:49,103] {logging_mixin.py:115} INFO - [2022-08-19 02:18:49,103] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:18:49,107] {logging_mixin.py:115} INFO - [2022-08-19 02:18:49,106] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:18:49,108] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:18:49,161] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.094 seconds
+[2022-08-19 02:19:19,478] {processor.py:153} INFO - Started process (PID=626) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:19:19,478] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:19:19,478] {logging_mixin.py:115} INFO - [2022-08-19 02:19:19,478] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:19:19,480] {logging_mixin.py:115} INFO - [2022-08-19 02:19:19,479] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:19:19,480] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:19:19,515] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.040 seconds
+[2022-08-19 02:19:49,996] {processor.py:153} INFO - Started process (PID=652) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:19:49,997] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:19:49,998] {logging_mixin.py:115} INFO - [2022-08-19 02:19:49,998] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:19:50,002] {logging_mixin.py:115} INFO - [2022-08-19 02:19:50,000] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:19:50,002] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:19:50,031] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 02:20:20,589] {processor.py:153} INFO - Started process (PID=687) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:20:20,605] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:20:20,606] {logging_mixin.py:115} INFO - [2022-08-19 02:20:20,606] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:20:20,609] {logging_mixin.py:115} INFO - [2022-08-19 02:20:20,608] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:20:20,610] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:20:20,647] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.063 seconds
+[2022-08-19 02:20:51,187] {processor.py:153} INFO - Started process (PID=721) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:20:51,196] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:20:51,197] {logging_mixin.py:115} INFO - [2022-08-19 02:20:51,197] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:20:51,201] {logging_mixin.py:115} INFO - [2022-08-19 02:20:51,200] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:20:51,202] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:20:51,239] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.056 seconds
+[2022-08-19 02:21:21,367] {processor.py:153} INFO - Started process (PID=747) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:21:21,379] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:21:21,380] {logging_mixin.py:115} INFO - [2022-08-19 02:21:21,380] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:21:21,384] {logging_mixin.py:115} INFO - [2022-08-19 02:21:21,383] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:21:21,385] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:21:21,422] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.060 seconds
+[2022-08-19 02:21:52,135] {processor.py:153} INFO - Started process (PID=783) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:21:52,145] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:21:52,146] {logging_mixin.py:115} INFO - [2022-08-19 02:21:52,146] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:21:52,150] {logging_mixin.py:115} INFO - [2022-08-19 02:21:52,148] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:21:52,150] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:21:52,188] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.057 seconds
+[2022-08-19 02:22:22,825] {processor.py:153} INFO - Started process (PID=818) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:22:22,836] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:22:22,837] {logging_mixin.py:115} INFO - [2022-08-19 02:22:22,837] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:22:22,841] {logging_mixin.py:115} INFO - [2022-08-19 02:22:22,840] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:22:22,841] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:22:22,871] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.050 seconds
+[2022-08-19 02:22:53,404] {processor.py:153} INFO - Started process (PID=844) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:22:53,419] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:22:53,420] {logging_mixin.py:115} INFO - [2022-08-19 02:22:53,420] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:22:53,424] {logging_mixin.py:115} INFO - [2022-08-19 02:22:53,422] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:22:53,424] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:22:53,462] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.063 seconds
+[2022-08-19 02:23:24,021] {processor.py:153} INFO - Started process (PID=879) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:23:24,035] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:23:24,036] {logging_mixin.py:115} INFO - [2022-08-19 02:23:24,036] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:23:24,040] {logging_mixin.py:115} INFO - [2022-08-19 02:23:24,038] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:23:24,041] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:23:24,087] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.070 seconds
+[2022-08-19 02:23:54,230] {processor.py:153} INFO - Started process (PID=912) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:23:54,235] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:23:54,236] {logging_mixin.py:115} INFO - [2022-08-19 02:23:54,236] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:23:54,238] {logging_mixin.py:115} INFO - [2022-08-19 02:23:54,237] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:23:54,238] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:23:54,300] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.075 seconds
+[2022-08-19 02:24:24,388] {processor.py:153} INFO - Started process (PID=934) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:24:24,388] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:24:24,389] {logging_mixin.py:115} INFO - [2022-08-19 02:24:24,389] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:24:24,392] {logging_mixin.py:115} INFO - [2022-08-19 02:24:24,391] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:24:24,393] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:24:24,419] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.036 seconds
+[2022-08-19 02:24:54,604] {processor.py:153} INFO - Started process (PID=969) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:24:54,605] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:24:54,605] {logging_mixin.py:115} INFO - [2022-08-19 02:24:54,605] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:24:54,607] {logging_mixin.py:115} INFO - [2022-08-19 02:24:54,606] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:24:54,607] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:24:54,627] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.027 seconds
+[2022-08-19 02:25:25,006] {processor.py:153} INFO - Started process (PID=995) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:25:25,007] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:25:25,008] {logging_mixin.py:115} INFO - [2022-08-19 02:25:25,007] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:25:25,009] {logging_mixin.py:115} INFO - [2022-08-19 02:25:25,009] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:25:25,009] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:25:25,035] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.033 seconds
+[2022-08-19 02:25:55,405] {processor.py:153} INFO - Started process (PID=1030) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:25:55,417] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:25:55,417] {logging_mixin.py:115} INFO - [2022-08-19 02:25:55,417] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:25:55,421] {logging_mixin.py:115} INFO - [2022-08-19 02:25:55,420] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:25:55,421] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:25:55,460] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.058 seconds
+[2022-08-19 02:26:25,594] {processor.py:153} INFO - Started process (PID=1065) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:26:25,608] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:26:25,609] {logging_mixin.py:115} INFO - [2022-08-19 02:26:25,609] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:26:25,612] {logging_mixin.py:115} INFO - [2022-08-19 02:26:25,611] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:26:25,613] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:26:25,651] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.061 seconds
+[2022-08-19 02:26:55,797] {processor.py:153} INFO - Started process (PID=1091) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:26:55,807] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:26:55,808] {logging_mixin.py:115} INFO - [2022-08-19 02:26:55,808] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:26:55,809] {logging_mixin.py:115} INFO - [2022-08-19 02:26:55,809] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:26:55,809] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:26:55,851] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.058 seconds
+[2022-08-19 02:27:25,950] {processor.py:153} INFO - Started process (PID=1125) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:27:25,951] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:27:25,952] {logging_mixin.py:115} INFO - [2022-08-19 02:27:25,952] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:27:25,953] {logging_mixin.py:115} INFO - [2022-08-19 02:27:25,953] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:27:25,953] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:27:25,984] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.038 seconds
+[2022-08-19 02:27:56,678] {processor.py:153} INFO - Started process (PID=1158) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:27:56,679] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:27:56,680] {logging_mixin.py:115} INFO - [2022-08-19 02:27:56,680] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:27:56,683] {logging_mixin.py:115} INFO - [2022-08-19 02:27:56,682] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:27:56,683] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:27:56,717] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.042 seconds
+[2022-08-19 02:28:27,046] {processor.py:153} INFO - Started process (PID=1184) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:28:27,046] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:28:27,047] {logging_mixin.py:115} INFO - [2022-08-19 02:28:27,047] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:28:27,051] {logging_mixin.py:115} INFO - [2022-08-19 02:28:27,049] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:28:27,051] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:28:27,091] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.050 seconds
+[2022-08-19 02:28:57,247] {processor.py:153} INFO - Started process (PID=1219) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:28:57,264] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:28:57,265] {logging_mixin.py:115} INFO - [2022-08-19 02:28:57,265] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:28:57,268] {logging_mixin.py:115} INFO - [2022-08-19 02:28:57,267] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:28:57,269] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:28:57,307] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.064 seconds
+[2022-08-19 02:29:27,378] {processor.py:153} INFO - Started process (PID=1245) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:29:27,378] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:29:27,379] {logging_mixin.py:115} INFO - [2022-08-19 02:29:27,379] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:29:27,383] {logging_mixin.py:115} INFO - [2022-08-19 02:29:27,381] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:29:27,383] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:29:27,424] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.051 seconds
+[2022-08-19 02:29:57,522] {processor.py:153} INFO - Started process (PID=1279) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:29:57,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:29:57,522] {logging_mixin.py:115} INFO - [2022-08-19 02:29:57,522] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:29:57,524] {logging_mixin.py:115} INFO - [2022-08-19 02:29:57,523] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:29:57,524] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:29:57,566] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.048 seconds
+[2022-08-19 02:30:27,732] {processor.py:153} INFO - Started process (PID=1314) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:30:27,732] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:30:27,733] {logging_mixin.py:115} INFO - [2022-08-19 02:30:27,733] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:30:27,737] {logging_mixin.py:115} INFO - [2022-08-19 02:30:27,736] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:30:27,737] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:30:27,791] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.064 seconds
+[2022-08-19 02:30:57,889] {processor.py:153} INFO - Started process (PID=1338) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:30:57,890] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:30:57,890] {logging_mixin.py:115} INFO - [2022-08-19 02:30:57,890] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:30:57,892] {logging_mixin.py:115} INFO - [2022-08-19 02:30:57,891] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:30:57,892] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:30:57,924] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 02:31:28,006] {processor.py:153} INFO - Started process (PID=1371) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:31:28,007] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:31:28,007] {logging_mixin.py:115} INFO - [2022-08-19 02:31:28,007] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:31:28,011] {logging_mixin.py:115} INFO - [2022-08-19 02:31:28,010] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:31:28,011] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:31:28,041] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 02:31:58,393] {processor.py:153} INFO - Started process (PID=1397) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:31:58,394] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:31:58,394] {logging_mixin.py:115} INFO - [2022-08-19 02:31:58,394] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:31:58,398] {logging_mixin.py:115} INFO - [2022-08-19 02:31:58,397] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:31:58,398] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:31:58,432] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.043 seconds
+[2022-08-19 02:32:28,745] {processor.py:153} INFO - Started process (PID=1432) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:32:28,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:32:28,763] {logging_mixin.py:115} INFO - [2022-08-19 02:32:28,762] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:32:28,767] {logging_mixin.py:115} INFO - [2022-08-19 02:32:28,766] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:32:28,768] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:32:28,884] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.143 seconds
+[2022-08-19 02:32:59,056] {processor.py:153} INFO - Started process (PID=1467) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:32:59,057] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:32:59,058] {logging_mixin.py:115} INFO - [2022-08-19 02:32:59,057] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:32:59,061] {logging_mixin.py:115} INFO - [2022-08-19 02:32:59,060] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:32:59,062] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:32:59,098] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.046 seconds
+[2022-08-19 02:33:29,158] {processor.py:153} INFO - Started process (PID=1493) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:33:29,169] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:33:29,169] {logging_mixin.py:115} INFO - [2022-08-19 02:33:29,169] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:33:29,173] {logging_mixin.py:115} INFO - [2022-08-19 02:33:29,172] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:33:29,173] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:33:29,205] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.052 seconds
+[2022-08-19 02:33:59,504] {processor.py:153} INFO - Started process (PID=1529) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:33:59,517] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:33:59,518] {logging_mixin.py:115} INFO - [2022-08-19 02:33:59,517] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:33:59,521] {logging_mixin.py:115} INFO - [2022-08-19 02:33:59,520] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:33:59,522] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:33:59,564] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.063 seconds
+[2022-08-19 02:34:29,671] {processor.py:153} INFO - Started process (PID=1563) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:34:29,672] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:34:29,672] {logging_mixin.py:115} INFO - [2022-08-19 02:34:29,672] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:34:29,674] {logging_mixin.py:115} INFO - [2022-08-19 02:34:29,673] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:34:29,674] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:34:29,696] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.030 seconds
+[2022-08-19 02:35:00,208] {processor.py:153} INFO - Started process (PID=1587) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:35:00,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:35:00,225] {logging_mixin.py:115} INFO - [2022-08-19 02:35:00,225] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:35:00,226] {logging_mixin.py:115} INFO - [2022-08-19 02:35:00,226] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:35:00,226] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:35:00,255] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.051 seconds
+[2022-08-19 02:35:30,335] {processor.py:153} INFO - Started process (PID=1622) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:35:30,336] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:35:30,337] {logging_mixin.py:115} INFO - [2022-08-19 02:35:30,337] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:35:30,340] {logging_mixin.py:115} INFO - [2022-08-19 02:35:30,340] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:35:30,341] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:35:30,380] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.048 seconds
+[2022-08-19 02:36:01,257] {processor.py:153} INFO - Started process (PID=1648) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:36:01,258] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:36:01,259] {logging_mixin.py:115} INFO - [2022-08-19 02:36:01,258] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:36:01,263] {logging_mixin.py:115} INFO - [2022-08-19 02:36:01,261] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:36:01,263] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:36:01,287] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.035 seconds
+[2022-08-19 02:36:31,428] {processor.py:153} INFO - Started process (PID=1683) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:36:31,428] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:36:31,429] {logging_mixin.py:115} INFO - [2022-08-19 02:36:31,429] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:36:31,433] {logging_mixin.py:115} INFO - [2022-08-19 02:36:31,432] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:36:31,433] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:36:31,462] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 02:37:01,945] {processor.py:153} INFO - Started process (PID=1718) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:37:01,964] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:37:01,965] {logging_mixin.py:115} INFO - [2022-08-19 02:37:01,965] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:37:01,968] {logging_mixin.py:115} INFO - [2022-08-19 02:37:01,967] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:37:01,969] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:37:01,995] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.054 seconds
+[2022-08-19 02:37:32,382] {processor.py:153} INFO - Started process (PID=1747) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:37:32,383] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:37:32,384] {logging_mixin.py:115} INFO - [2022-08-19 02:37:32,384] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:37:32,388] {logging_mixin.py:115} INFO - [2022-08-19 02:37:32,387] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:37:32,388] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:37:32,436] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.058 seconds
+[2022-08-19 02:38:02,538] {processor.py:153} INFO - Started process (PID=1780) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:38:02,555] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:38:02,556] {logging_mixin.py:115} INFO - [2022-08-19 02:38:02,556] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:38:02,560] {logging_mixin.py:115} INFO - [2022-08-19 02:38:02,559] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:38:02,560] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:38:02,603] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.069 seconds
+[2022-08-19 02:38:27,164] {processor.py:153} INFO - Started process (PID=1803) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:38:27,165] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 02:38:27,166] {logging_mixin.py:115} INFO - [2022-08-19 02:38:27,166] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:38:27,172] {logging_mixin.py:115} INFO - [2022-08-19 02:38:27,171] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 1, in <module>
+    from skyfield.api import load, wgs84, EarthSatellite
+ModuleNotFoundError: No module named 'skyfield'
+[2022-08-19 02:38:27,172] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 02:38:27,219] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.059 seconds
+[2022-08-19 18:09:00,802] {processor.py:153} INFO - Started process (PID=347) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:09:00,817] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:09:00,818] {logging_mixin.py:115} INFO - [2022-08-19 18:09:00,818] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:09:01,067] {logging_mixin.py:115} INFO - [2022-08-19 18:09:01,066] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 11, in <module>
+    data = pd.read_json('/home/L/Programming/dataEng/spaceApp/airflow/dags/tempSatelliteData.json')
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 614, in read_json
+    return json_reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 748, in read
+    obj = self._get_object_parser(self.data)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 770, in _get_object_parser
+    obj = FrameParser(json, **kwargs).parse()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 885, in parse
+    self._parse_no_numpy()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 1140, in _parse_no_numpy
+    loads(json, precise_float=self.precise_float), dtype=None
+ValueError: Expected object or value
+[2022-08-19 18:09:01,067] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:09:01,138] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.340 seconds
+[2022-08-19 18:09:31,818] {processor.py:153} INFO - Started process (PID=398) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:09:31,835] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:09:31,836] {logging_mixin.py:115} INFO - [2022-08-19 18:09:31,836] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:09:32,141] {logging_mixin.py:115} INFO - [2022-08-19 18:09:32,139] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 11, in <module>
+    data = pd.read_json('/home/L/Programming/dataEng/spaceApp/airflow/dags/tempSatelliteData.json')
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 614, in read_json
+    return json_reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 748, in read
+    obj = self._get_object_parser(self.data)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 770, in _get_object_parser
+    obj = FrameParser(json, **kwargs).parse()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 885, in parse
+    self._parse_no_numpy()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 1140, in _parse_no_numpy
+    loads(json, precise_float=self.precise_float), dtype=None
+ValueError: Expected object or value
+[2022-08-19 18:09:32,141] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:09:32,180] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.366 seconds
+[2022-08-19 18:10:03,010] {processor.py:153} INFO - Started process (PID=444) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:03,026] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:10:03,027] {logging_mixin.py:115} INFO - [2022-08-19 18:10:03,027] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:03,250] {logging_mixin.py:115} INFO - [2022-08-19 18:10:03,248] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 11, in <module>
+    data = pd.read_json('/home/L/Programming/dataEng/spaceApp/airflow/dags/tempSatelliteData.json')
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 614, in read_json
+    return json_reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 748, in read
+    obj = self._get_object_parser(self.data)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 770, in _get_object_parser
+    obj = FrameParser(json, **kwargs).parse()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 885, in parse
+    self._parse_no_numpy()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/json/_json.py", line 1140, in _parse_no_numpy
+    loads(json, precise_float=self.precise_float), dtype=None
+ValueError: Expected object or value
+[2022-08-19 18:10:03,250] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:03,280] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.272 seconds
+[2022-08-19 18:10:10,407] {processor.py:153} INFO - Started process (PID=457) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:10,417] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:10:10,418] {logging_mixin.py:115} INFO - [2022-08-19 18:10:10,418] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:11,395] {logging_mixin.py:115} INFO - [2022-08-19 18:10:11,390] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 29, in <module>
+    df.to_csv(f'./Streaming/StreamingFiles/Test_{i+1}.txt', sep='\n', index=False, header=None)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: './Streaming/StreamingFiles/Test_1.txt'
+[2022-08-19 18:10:11,395] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:11,439] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 1.035 seconds
+[2022-08-19 18:10:43,103] {processor.py:153} INFO - Started process (PID=501) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:43,117] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:10:43,118] {logging_mixin.py:115} INFO - [2022-08-19 18:10:43,118] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:43,868] {logging_mixin.py:115} INFO - [2022-08-19 18:10:43,866] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 29, in <module>
+    df.to_csv(f'./Streaming/StreamingFiles/Test_{i+1}.txt', sep='\n', index=False, header=None)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: './Streaming/StreamingFiles/Test_1.txt'
+[2022-08-19 18:10:43,868] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:43,905] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.806 seconds
+[2022-08-19 18:10:56,639] {processor.py:153} INFO - Started process (PID=514) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:56,639] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:10:56,640] {logging_mixin.py:115} INFO - [2022-08-19 18:10:56,640] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:10:57,565] {logging_mixin.py:115} INFO - {'satname': {0: 'Starlink', 1: 'Space Station'}, 'lat': [27, 12], 'lon': [53, 34]}
+[2022-08-19 18:10:57,565] {logging_mixin.py:115} INFO - {'satname': {}, 'id': {}, 'lat': {}, 'lon': {}}
+[2022-08-19 18:10:58,433] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:10:59,763] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:00,748] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:01,996] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:03,139] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:04,188] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:05,177] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:06,326] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:07,232] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:08,214] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:09,119] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:10,228] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:11,567] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:12,862] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:13,944] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:15,389] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:16,343] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:17,449] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:18,536] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:19,867] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:20,855] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:21,983] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:23,285] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:24,468] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:25,621] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:26,641] {logging_mixin.py:115} INFO - [2022-08-19 18:11:26,641] {timeout.py:67} ERROR - Process timed out, PID: 514
+[2022-08-19 18:11:26,643] {logging_mixin.py:115} INFO - [2022-08-19 18:11:26,641] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 97, in <module>
+    result = p.map(sat_lat_lon, files)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 268, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 651, in get
+    self.wait(timeout)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 648, in wait
+    self._event.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 552, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 296, in wait
+    waiter.acquire()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/Streaming/streamGenerator.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 514
+[2022-08-19 18:11:26,644] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:11:26,688] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 30.053 seconds
+[2022-08-19 18:11:46,735] {processor.py:153} INFO - Started process (PID=4397) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:11:46,735] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:11:46,736] {logging_mixin.py:115} INFO - [2022-08-19 18:11:46,736] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:11:47,620] {logging_mixin.py:115} INFO - {'satname': {0: 'Starlink', 1: 'Space Station'}, 'lat': [27, 12], 'lon': [53, 34]}
+[2022-08-19 18:11:47,620] {logging_mixin.py:115} INFO - {'satname': {}, 'id': {}, 'lat': {}, 'lon': {}}
+[2022-08-19 18:11:48,309] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:49,567] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:50,859] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:51,882] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:52,866] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:53,770] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:54,939] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:56,107] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:57,253] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:58,451] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:11:59,367] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:00,378] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:01,732] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:02,981] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:04,169] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:05,034] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:06,145] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:07,191] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:08,454] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:09,725] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:10,760] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:11,718] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:12,753] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:13,782] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:15,137] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:16,366] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:16,738] {logging_mixin.py:115} INFO - [2022-08-19 18:12:16,738] {timeout.py:67} ERROR - Process timed out, PID: 4397
+[2022-08-19 18:12:16,740] {logging_mixin.py:115} INFO - [2022-08-19 18:12:16,738] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 97, in <module>
+    result = p.map(sat_lat_lon, files)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 268, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 651, in get
+    self.wait(timeout)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 648, in wait
+    self._event.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 552, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 296, in wait
+    waiter.acquire()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/Streaming/streamGenerator.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 4397
+[2022-08-19 18:12:16,741] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:12:16,779] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 30.049 seconds
+[2022-08-19 18:12:47,907] {processor.py:153} INFO - Started process (PID=8444) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:12:47,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:12:47,907] {logging_mixin.py:115} INFO - [2022-08-19 18:12:47,907] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:12:48,748] {logging_mixin.py:115} INFO - {'satname': {0: 'Starlink', 1: 'Space Station'}, 'lat': [27, 12], 'lon': [53, 34]}
+[2022-08-19 18:12:48,748] {logging_mixin.py:115} INFO - {'satname': {}, 'id': {}, 'lat': {}, 'lon': {}}
+[2022-08-19 18:12:49,640] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:50,659] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:51,873] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:52,763] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:53,731] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:54,660] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:55,744] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:56,882] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:58,159] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:12:59,267] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:00,254] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:01,300] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:02,651] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:03,725] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:04,794] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:05,776] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:06,681] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:07,822] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:09,070] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:10,358] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:11,314] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:12,296] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:13,492] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:14,698] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:15,799] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:16,913] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:17,909] {logging_mixin.py:115} INFO - [2022-08-19 18:13:17,908] {timeout.py:67} ERROR - Process timed out, PID: 8444
+[2022-08-19 18:13:17,910] {logging_mixin.py:115} INFO - [2022-08-19 18:13:17,909] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 97, in <module>
+    result = p.map(sat_lat_lon, files)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 268, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 651, in get
+    self.wait(timeout)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 648, in wait
+    self._event.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 552, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 296, in wait
+    waiter.acquire()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/Streaming/streamGenerator.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 8444
+[2022-08-19 18:13:17,911] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:13:17,913] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:17,945] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 30.042 seconds
+[2022-08-19 18:13:48,782] {processor.py:153} INFO - Started process (PID=12491) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:13:48,783] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:13:48,783] {logging_mixin.py:115} INFO - [2022-08-19 18:13:48,783] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:13:49,661] {logging_mixin.py:115} INFO - {'satname': {0: 'Starlink', 1: 'Space Station'}, 'lat': [27, 12], 'lon': [53, 34]}
+[2022-08-19 18:13:49,661] {logging_mixin.py:115} INFO - {'satname': {}, 'id': {}, 'lat': {}, 'lon': {}}
+[2022-08-19 18:13:50,657] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:51,931] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:52,893] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:53,880] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:54,943] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:55,977] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:57,136] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:58,132] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:13:59,099] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:00,190] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:01,179] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:02,343] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:03,735] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:04,742] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:05,810] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:06,925] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:08,169] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:09,132] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:10,152] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:11,142] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:12,029] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:13,100] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:14,103] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:15,111] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:16,230] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:17,537] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:18,490] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:18,785] {logging_mixin.py:115} INFO - [2022-08-19 18:14:18,784] {timeout.py:67} ERROR - Process timed out, PID: 12491
+[2022-08-19 18:14:18,788] {logging_mixin.py:115} INFO - [2022-08-19 18:14:18,785] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 99, in <module>
+    p.join()
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 556, in join
+    self._worker_handler.join()
+  File "/usr/local/lib/python3.7/threading.py", line 1044, in join
+    self._wait_for_tstate_lock()
+  File "/usr/local/lib/python3.7/threading.py", line 1060, in _wait_for_tstate_lock
+    elif lock.acquire(block, timeout):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/Streaming/streamGenerator.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 12491
+[2022-08-19 18:14:18,790] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:14:18,812] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 30.034 seconds
+[2022-08-19 18:14:49,039] {processor.py:153} INFO - Started process (PID=16526) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:14:49,039] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:14:49,040] {logging_mixin.py:115} INFO - [2022-08-19 18:14:49,040] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:14:49,885] {logging_mixin.py:115} INFO - {'satname': {0: 'Starlink', 1: 'Space Station'}, 'lat': [27, 12], 'lon': [53, 34]}
+[2022-08-19 18:14:49,885] {logging_mixin.py:115} INFO - {'satname': {}, 'id': {}, 'lat': {}, 'lon': {}}
+[2022-08-19 18:14:50,610] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:51,925] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:53,083] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:53,920] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:55,358] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:56,455] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:57,587] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:58,569] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:14:59,717] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:00,682] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:01,670] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:03,198] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:04,237] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:05,727] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:06,872] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:07,975] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:08,861] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:09,782] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:10,701] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:11,692] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:12,622] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:13,659] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:14,600] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:15,586] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:16,946] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:18,223] {logging_mixin.py:115} WARNING - /home/airflow/.local/lib/python3.7/site-packages/skyfield/toposlib.py:201 RuntimeWarning: invalid value encountered in double_scalars
+[2022-08-19 18:15:19,041] {logging_mixin.py:115} INFO - [2022-08-19 18:15:19,040] {timeout.py:67} ERROR - Process timed out, PID: 16526
+[2022-08-19 18:15:19,042] {logging_mixin.py:115} INFO - [2022-08-19 18:15:19,041] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/Streaming/streamGenerator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/Streaming/streamGenerator.py", line 97, in <module>
+    result = p.map(sat_lat_lon, files)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 268, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 651, in get
+    self.wait(timeout)
+  File "/usr/local/lib/python3.7/multiprocessing/pool.py", line 648, in wait
+    self._event.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 552, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/local/lib/python3.7/threading.py", line 296, in wait
+    waiter.acquire()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/Streaming/streamGenerator.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 16526
+[2022-08-19 18:15:19,043] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:15:19,103] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 30.067 seconds
+[2022-08-19 18:15:23,222] {processor.py:153} INFO - Started process (PID=20522) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:15:23,237] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:15:23,238] {logging_mixin.py:115} INFO - [2022-08-19 18:15:23,237] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:15:23,241] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:15:23,278] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.060 seconds
+[2022-08-19 18:15:53,559] {processor.py:153} INFO - Started process (PID=20558) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:15:53,577] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:15:53,578] {logging_mixin.py:115} INFO - [2022-08-19 18:15:53,578] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:15:53,580] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:15:53,599] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.045 seconds
+[2022-08-19 18:16:24,372] {processor.py:153} INFO - Started process (PID=20585) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:16:24,385] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:16:24,385] {logging_mixin.py:115} INFO - [2022-08-19 18:16:24,385] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:16:24,387] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:16:24,406] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.038 seconds
+[2022-08-19 18:16:54,500] {processor.py:153} INFO - Started process (PID=20622) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:16:54,518] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:16:54,518] {logging_mixin.py:115} INFO - [2022-08-19 18:16:54,518] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:16:54,520] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:16:54,541] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.045 seconds
+[2022-08-19 18:17:24,693] {processor.py:153} INFO - Started process (PID=20658) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:17:24,700] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:17:24,701] {logging_mixin.py:115} INFO - [2022-08-19 18:17:24,701] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:17:24,702] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:17:24,717] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.028 seconds
+[2022-08-19 18:17:54,786] {processor.py:153} INFO - Started process (PID=20686) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:17:54,800] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:17:54,801] {logging_mixin.py:115} INFO - [2022-08-19 18:17:54,801] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:17:54,803] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:17:54,820] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.038 seconds
+[2022-08-19 18:18:24,962] {processor.py:153} INFO - Started process (PID=20722) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:18:24,976] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:18:24,976] {logging_mixin.py:115} INFO - [2022-08-19 18:18:24,976] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:18:24,978] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:18:24,993] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.035 seconds
+[2022-08-19 18:18:55,097] {processor.py:153} INFO - Started process (PID=20748) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:18:55,097] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:18:55,098] {logging_mixin.py:115} INFO - [2022-08-19 18:18:55,098] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:18:55,100] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:18:55,119] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.027 seconds
+[2022-08-19 18:19:25,393] {processor.py:153} INFO - Started process (PID=20784) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:19:25,409] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:19:25,409] {logging_mixin.py:115} INFO - [2022-08-19 18:19:25,409] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:19:25,411] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:19:25,431] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.042 seconds
+[2022-08-19 18:19:55,779] {processor.py:153} INFO - Started process (PID=20828) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:19:55,800] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:19:55,801] {logging_mixin.py:115} INFO - [2022-08-19 18:19:55,801] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:19:55,803] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:19:55,821] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.046 seconds
+[2022-08-19 18:20:26,131] {processor.py:153} INFO - Started process (PID=20855) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:20:26,149] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:20:26,150] {logging_mixin.py:115} INFO - [2022-08-19 18:20:26,150] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:20:26,152] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:20:26,171] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.045 seconds
+[2022-08-19 18:20:56,506] {processor.py:153} INFO - Started process (PID=20891) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:20:56,507] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:20:56,507] {logging_mixin.py:115} INFO - [2022-08-19 18:20:56,507] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:20:56,508] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:20:56,522] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.020 seconds
+[2022-08-19 18:21:26,766] {processor.py:153} INFO - Started process (PID=20916) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:21:26,780] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:21:26,781] {logging_mixin.py:115} INFO - [2022-08-19 18:21:26,781] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:21:26,783] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:21:26,798] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.036 seconds
+[2022-08-19 18:21:56,887] {processor.py:153} INFO - Started process (PID=20951) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:21:56,887] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:21:56,888] {logging_mixin.py:115} INFO - [2022-08-19 18:21:56,888] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:21:56,889] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:21:56,902] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.019 seconds
+[2022-08-19 18:22:27,038] {processor.py:153} INFO - Started process (PID=20986) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:22:27,054] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:22:27,055] {logging_mixin.py:115} INFO - [2022-08-19 18:22:27,055] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:22:27,057] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:22:27,076] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.043 seconds
+[2022-08-19 18:22:57,205] {processor.py:153} INFO - Started process (PID=21013) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:22:57,221] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:22:57,222] {logging_mixin.py:115} INFO - [2022-08-19 18:22:57,221] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:22:57,223] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:22:57,242] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.042 seconds
+[2022-08-19 18:23:27,995] {processor.py:153} INFO - Started process (PID=21049) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:23:27,996] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:23:27,996] {logging_mixin.py:115} INFO - [2022-08-19 18:23:27,996] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:23:27,998] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:23:28,018] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.028 seconds
+[2022-08-19 18:23:58,374] {processor.py:153} INFO - Started process (PID=21085) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:23:58,374] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:23:58,375] {logging_mixin.py:115} INFO - [2022-08-19 18:23:58,375] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:23:58,376] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:23:58,393] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.021 seconds
+[2022-08-19 18:24:28,571] {processor.py:153} INFO - Started process (PID=21112) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:24:28,586] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:24:28,587] {logging_mixin.py:115} INFO - [2022-08-19 18:24:28,587] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:24:28,589] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:24:28,611] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.045 seconds
+[2022-08-19 18:24:58,783] {processor.py:153} INFO - Started process (PID=21147) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:24:58,794] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:24:58,794] {logging_mixin.py:115} INFO - [2022-08-19 18:24:58,794] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:24:58,796] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:24:58,815] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.036 seconds
+[2022-08-19 18:25:26,934] {processor.py:153} INFO - Started process (PID=21172) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:25:26,944] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:25:26,945] {logging_mixin.py:115} INFO - [2022-08-19 18:25:26,944] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:25:26,950] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:25:26,968] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 18:25:57,441] {processor.py:153} INFO - Started process (PID=21208) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:25:57,451] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:25:57,451] {logging_mixin.py:115} INFO - [2022-08-19 18:25:57,451] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:25:57,452] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:25:57,463] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.026 seconds
+[2022-08-19 18:26:27,599] {processor.py:153} INFO - Started process (PID=21235) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:26:27,617] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:26:27,618] {logging_mixin.py:115} INFO - [2022-08-19 18:26:27,618] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:26:27,620] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:26:27,641] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.045 seconds
+[2022-08-19 18:26:57,790] {processor.py:153} INFO - Started process (PID=21271) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:26:57,817] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:26:57,818] {logging_mixin.py:115} INFO - [2022-08-19 18:26:57,818] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:26:57,820] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:26:57,840] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.055 seconds
+[2022-08-19 18:27:28,309] {processor.py:153} INFO - Started process (PID=21307) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:27:28,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:27:28,328] {logging_mixin.py:115} INFO - [2022-08-19 18:27:28,328] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:27:28,330] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:27:28,341] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.033 seconds
+[2022-08-19 18:27:58,497] {processor.py:153} INFO - Started process (PID=21334) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:27:58,509] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:27:58,509] {logging_mixin.py:115} INFO - [2022-08-19 18:27:58,509] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:27:58,510] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:27:58,527] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.035 seconds
+[2022-08-19 18:28:28,696] {processor.py:153} INFO - Started process (PID=21368) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:28:28,709] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:28:28,710] {logging_mixin.py:115} INFO - [2022-08-19 18:28:28,709] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:28:28,711] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:28:28,728] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.036 seconds
+[2022-08-19 18:28:59,194] {processor.py:153} INFO - Started process (PID=21393) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:28:59,208] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:28:59,208] {logging_mixin.py:115} INFO - [2022-08-19 18:28:59,208] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:28:59,210] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:28:59,228] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 18:29:29,666] {processor.py:153} INFO - Started process (PID=21430) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:29:29,675] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:29:29,675] {logging_mixin.py:115} INFO - [2022-08-19 18:29:29,675] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:29:29,677] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:29:29,696] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.035 seconds
+[2022-08-19 18:29:59,805] {processor.py:153} INFO - Started process (PID=21466) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:29:59,824] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:29:59,824] {logging_mixin.py:115} INFO - [2022-08-19 18:29:59,824] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:29:59,825] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:29:59,840] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.040 seconds
+[2022-08-19 18:30:30,015] {processor.py:153} INFO - Started process (PID=21493) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:30:30,040] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:30:30,041] {logging_mixin.py:115} INFO - [2022-08-19 18:30:30,041] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:30:30,043] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:30:30,064] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.053 seconds
+[2022-08-19 18:31:00,185] {processor.py:153} INFO - Started process (PID=21530) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:31:00,198] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:31:00,199] {logging_mixin.py:115} INFO - [2022-08-19 18:31:00,199] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:31:00,201] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:31:00,219] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 18:31:30,487] {processor.py:153} INFO - Started process (PID=21566) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:31:30,487] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:31:30,488] {logging_mixin.py:115} INFO - [2022-08-19 18:31:30,487] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:31:30,488] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:31:30,500] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.017 seconds
+[2022-08-19 18:32:00,648] {processor.py:153} INFO - Started process (PID=21591) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:32:00,664] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:32:00,664] {logging_mixin.py:115} INFO - [2022-08-19 18:32:00,664] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:32:00,666] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:32:00,685] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.041 seconds
+[2022-08-19 18:32:30,701] {processor.py:153} INFO - Started process (PID=21624) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:32:30,713] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:32:30,714] {logging_mixin.py:115} INFO - [2022-08-19 18:32:30,714] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:32:30,716] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:32:30,731] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.032 seconds
+[2022-08-19 18:33:00,991] {processor.py:153} INFO - Started process (PID=21650) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:33:01,004] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:33:01,005] {logging_mixin.py:115} INFO - [2022-08-19 18:33:01,005] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:33:01,007] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:33:01,022] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.034 seconds
+[2022-08-19 18:33:31,165] {processor.py:153} INFO - Started process (PID=21686) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:33:31,166] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:33:31,167] {logging_mixin.py:115} INFO - [2022-08-19 18:33:31,166] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:33:31,168] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:33:31,184] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.023 seconds
+[2022-08-19 18:34:01,906] {processor.py:153} INFO - Started process (PID=21722) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:34:01,906] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:34:01,907] {logging_mixin.py:115} INFO - [2022-08-19 18:34:01,907] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:34:01,908] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:34:01,924] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.021 seconds
+[2022-08-19 18:34:31,988] {processor.py:153} INFO - Started process (PID=21749) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:34:32,003] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:34:32,004] {logging_mixin.py:115} INFO - [2022-08-19 18:34:32,004] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:34:32,006] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:34:32,025] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.041 seconds
+[2022-08-19 18:35:02,394] {processor.py:153} INFO - Started process (PID=21785) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:35:02,419] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:35:02,420] {logging_mixin.py:115} INFO - [2022-08-19 18:35:02,420] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:35:02,422] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:35:02,441] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.052 seconds
+[2022-08-19 18:35:32,495] {processor.py:153} INFO - Started process (PID=21810) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:35:32,510] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:35:32,511] {logging_mixin.py:115} INFO - [2022-08-19 18:35:32,511] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:35:32,513] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:35:32,529] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.038 seconds
+[2022-08-19 18:36:02,810] {processor.py:153} INFO - Started process (PID=21844) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:36:02,818] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:36:02,818] {logging_mixin.py:115} INFO - [2022-08-19 18:36:02,818] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:36:02,819] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:36:02,837] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.031 seconds
+[2022-08-19 18:36:32,918] {processor.py:153} INFO - Started process (PID=21880) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:36:32,926] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:36:32,926] {logging_mixin.py:115} INFO - [2022-08-19 18:36:32,926] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:36:32,927] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:36:32,944] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.030 seconds
+[2022-08-19 18:37:03,094] {processor.py:153} INFO - Started process (PID=21907) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:37:03,109] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:37:03,110] {logging_mixin.py:115} INFO - [2022-08-19 18:37:03,110] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:37:03,111] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:37:03,131] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.041 seconds
+[2022-08-19 18:37:33,625] {processor.py:153} INFO - Started process (PID=21944) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:37:33,634] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:37:33,634] {logging_mixin.py:115} INFO - [2022-08-19 18:37:33,634] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:37:33,636] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:37:33,653] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.033 seconds
+[2022-08-19 18:38:04,101] {processor.py:153} INFO - Started process (PID=21980) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:38:04,116] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:38:04,117] {logging_mixin.py:115} INFO - [2022-08-19 18:38:04,117] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:38:04,119] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:38:04,138] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.041 seconds
+[2022-08-19 18:38:34,297] {processor.py:153} INFO - Started process (PID=22007) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:38:34,307] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:38:34,308] {logging_mixin.py:115} INFO - [2022-08-19 18:38:34,308] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:38:34,308] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:38:34,326] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.034 seconds
+[2022-08-19 18:39:04,540] {processor.py:153} INFO - Started process (PID=22041) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:39:04,549] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:39:04,549] {logging_mixin.py:115} INFO - [2022-08-19 18:39:04,549] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:39:04,551] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:39:04,570] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.034 seconds
+[2022-08-19 18:39:34,942] {processor.py:153} INFO - Started process (PID=22072) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:39:34,948] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:39:34,948] {logging_mixin.py:115} INFO - [2022-08-19 18:39:34,948] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:39:34,949] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:39:34,961] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.024 seconds
+[2022-08-19 18:40:05,146] {processor.py:153} INFO - Started process (PID=22102) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:40:05,156] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:40:05,156] {logging_mixin.py:115} INFO - [2022-08-19 18:40:05,156] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:40:05,158] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:40:05,174] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.032 seconds
+[2022-08-19 18:40:35,404] {processor.py:153} INFO - Started process (PID=22138) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:40:35,405] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:40:35,406] {logging_mixin.py:115} INFO - [2022-08-19 18:40:35,406] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:40:35,408] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:40:35,428] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.028 seconds
+[2022-08-19 18:41:05,489] {processor.py:153} INFO - Started process (PID=22165) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:41:05,505] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:41:05,505] {logging_mixin.py:115} INFO - [2022-08-19 18:41:05,505] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:41:05,506] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:41:05,520] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.035 seconds
+[2022-08-19 18:41:35,772] {processor.py:153} INFO - Started process (PID=22201) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:41:35,773] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:41:35,774] {logging_mixin.py:115} INFO - [2022-08-19 18:41:35,774] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:41:35,776] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:41:35,792] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.025 seconds
+[2022-08-19 18:42:06,191] {processor.py:153} INFO - Started process (PID=22237) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:42:06,192] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:42:06,192] {logging_mixin.py:115} INFO - [2022-08-19 18:42:06,192] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:42:06,194] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:42:06,208] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.022 seconds
+[2022-08-19 18:42:36,339] {processor.py:153} INFO - Started process (PID=22260) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:42:36,339] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:42:36,340] {logging_mixin.py:115} INFO - [2022-08-19 18:42:36,340] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:42:36,342] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:42:36,355] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.021 seconds
+[2022-08-19 18:43:06,479] {processor.py:153} INFO - Started process (PID=22296) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:43:06,495] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:43:06,495] {logging_mixin.py:115} INFO - [2022-08-19 18:43:06,495] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:43:06,497] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:43:06,515] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.041 seconds
+[2022-08-19 18:43:36,635] {processor.py:153} INFO - Started process (PID=22323) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:43:36,727] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:43:36,728] {logging_mixin.py:115} INFO - [2022-08-19 18:43:36,728] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:43:36,729] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:43:36,743] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.112 seconds
+[2022-08-19 18:44:06,910] {processor.py:153} INFO - Started process (PID=22359) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:44:06,927] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:44:06,928] {logging_mixin.py:115} INFO - [2022-08-19 18:44:06,928] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:44:06,929] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:44:06,948] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.043 seconds
+[2022-08-19 18:44:37,150] {processor.py:153} INFO - Started process (PID=22395) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:44:37,168] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:44:37,169] {logging_mixin.py:115} INFO - [2022-08-19 18:44:37,169] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:44:37,171] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:44:37,189] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.043 seconds
+[2022-08-19 18:45:07,318] {processor.py:153} INFO - Started process (PID=22422) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:45:07,326] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:45:07,326] {logging_mixin.py:115} INFO - [2022-08-19 18:45:07,326] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:45:07,327] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:45:07,344] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.030 seconds
+[2022-08-19 18:45:37,527] {processor.py:153} INFO - Started process (PID=22459) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:45:37,551] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:45:37,551] {logging_mixin.py:115} INFO - [2022-08-19 18:45:37,551] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:45:37,553] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:45:37,570] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.048 seconds
+[2022-08-19 18:46:08,548] {processor.py:153} INFO - Started process (PID=22493) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:46:08,558] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:46:08,559] {logging_mixin.py:115} INFO - [2022-08-19 18:46:08,559] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:46:08,560] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:46:08,576] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.031 seconds
+[2022-08-19 18:46:38,859] {processor.py:153} INFO - Started process (PID=22518) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:46:38,874] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:46:38,875] {logging_mixin.py:115} INFO - [2022-08-19 18:46:38,875] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:46:38,877] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:46:38,895] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 18:47:09,102] {processor.py:153} INFO - Started process (PID=22554) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:47:09,115] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:47:09,116] {logging_mixin.py:115} INFO - [2022-08-19 18:47:09,116] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:47:09,117] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:47:09,132] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.034 seconds
+[2022-08-19 18:47:39,521] {processor.py:153} INFO - Started process (PID=22588) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:47:39,548] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:47:39,549] {logging_mixin.py:115} INFO - [2022-08-19 18:47:39,549] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:47:39,551] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:47:39,570] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.054 seconds
+[2022-08-19 18:48:09,711] {processor.py:153} INFO - Started process (PID=22617) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:48:09,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:48:09,732] {logging_mixin.py:115} INFO - [2022-08-19 18:48:09,732] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:48:09,734] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:48:09,751] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.044 seconds
+[2022-08-19 18:48:40,097] {processor.py:153} INFO - Started process (PID=22653) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:48:40,106] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:48:40,106] {logging_mixin.py:115} INFO - [2022-08-19 18:48:40,106] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:48:40,107] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:48:40,119] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.024 seconds
+[2022-08-19 18:49:10,340] {processor.py:153} INFO - Started process (PID=22680) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:49:10,355] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:49:10,355] {logging_mixin.py:115} INFO - [2022-08-19 18:49:10,355] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:49:10,356] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:49:10,373] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.037 seconds
+[2022-08-19 18:49:40,601] {processor.py:153} INFO - Started process (PID=22714) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:49:40,613] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:49:40,613] {logging_mixin.py:115} INFO - [2022-08-19 18:49:40,613] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:49:40,614] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:49:40,630] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.033 seconds
+[2022-08-19 18:50:10,648] {processor.py:153} INFO - Started process (PID=22748) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:50:10,648] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:50:10,649] {logging_mixin.py:115} INFO - [2022-08-19 18:50:10,649] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:50:10,651] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:50:10,669] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.025 seconds
+[2022-08-19 18:50:40,819] {processor.py:153} INFO - Started process (PID=22775) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:50:40,835] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:50:40,836] {logging_mixin.py:115} INFO - [2022-08-19 18:50:40,836] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:50:40,838] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:50:40,856] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 18:51:10,970] {processor.py:153} INFO - Started process (PID=22811) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:51:10,998] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:51:10,999] {logging_mixin.py:115} INFO - [2022-08-19 18:51:10,999] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:51:11,001] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:51:11,022] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.057 seconds
+[2022-08-19 18:51:41,235] {processor.py:153} INFO - Started process (PID=22838) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:51:41,251] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:51:41,252] {logging_mixin.py:115} INFO - [2022-08-19 18:51:41,252] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:51:41,254] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:51:41,274] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.043 seconds
+[2022-08-19 18:52:11,663] {processor.py:153} INFO - Started process (PID=22873) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:52:11,675] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:52:11,676] {logging_mixin.py:115} INFO - [2022-08-19 18:52:11,676] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:52:11,679] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:52:11,697] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.038 seconds
+[2022-08-19 18:52:41,854] {processor.py:153} INFO - Started process (PID=22909) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:52:41,855] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:52:41,855] {logging_mixin.py:115} INFO - [2022-08-19 18:52:41,855] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:52:41,856] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:52:41,873] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.023 seconds
+[2022-08-19 18:53:11,995] {processor.py:153} INFO - Started process (PID=22934) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:53:12,008] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:53:12,009] {logging_mixin.py:115} INFO - [2022-08-19 18:53:12,009] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:53:12,012] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:53:12,025] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.035 seconds
+[2022-08-19 18:53:42,161] {processor.py:153} INFO - Started process (PID=22969) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:53:42,162] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:53:42,163] {logging_mixin.py:115} INFO - [2022-08-19 18:53:42,163] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:53:42,165] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:53:42,185] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.028 seconds
+[2022-08-19 18:54:12,220] {processor.py:153} INFO - Started process (PID=22996) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:54:12,232] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:54:12,233] {logging_mixin.py:115} INFO - [2022-08-19 18:54:12,232] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:54:12,234] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:54:12,253] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.038 seconds
+[2022-08-19 18:54:43,135] {processor.py:153} INFO - Started process (PID=23033) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:54:43,136] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:54:43,137] {logging_mixin.py:115} INFO - [2022-08-19 18:54:43,137] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:54:43,138] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:54:43,158] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.027 seconds
+[2022-08-19 18:55:13,503] {processor.py:153} INFO - Started process (PID=23069) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:55:13,514] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:55:13,515] {logging_mixin.py:115} INFO - [2022-08-19 18:55:13,515] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:55:13,516] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:55:13,533] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.035 seconds
+[2022-08-19 18:55:43,723] {processor.py:153} INFO - Started process (PID=23096) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:55:43,747] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:55:43,748] {logging_mixin.py:115} INFO - [2022-08-19 18:55:43,748] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:55:43,750] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:55:43,770] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.052 seconds
+[2022-08-19 18:56:16,700] {processor.py:153} INFO - Started process (PID=23132) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:56:16,763] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:56:16,764] {logging_mixin.py:115} INFO - [2022-08-19 18:56:16,764] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:56:16,766] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:56:16,782] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.087 seconds
+[2022-08-19 18:56:46,938] {processor.py:153} INFO - Started process (PID=23164) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:56:46,954] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:56:46,955] {logging_mixin.py:115} INFO - [2022-08-19 18:56:46,955] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:56:46,956] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:56:46,973] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.039 seconds
+[2022-08-19 18:57:17,343] {processor.py:153} INFO - Started process (PID=23191) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:57:17,353] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:57:17,354] {logging_mixin.py:115} INFO - [2022-08-19 18:57:17,354] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:57:17,355] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:57:17,373] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.034 seconds
+[2022-08-19 18:57:47,511] {processor.py:153} INFO - Started process (PID=23227) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:57:47,520] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:57:47,520] {logging_mixin.py:115} INFO - [2022-08-19 18:57:47,520] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:57:47,521] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:57:47,535] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.029 seconds
+[2022-08-19 18:58:17,990] {processor.py:153} INFO - Started process (PID=23262) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:58:18,003] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:58:18,004] {logging_mixin.py:115} INFO - [2022-08-19 18:58:18,003] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:58:18,005] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:58:18,023] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.037 seconds
+[2022-08-19 18:58:48,579] {processor.py:153} INFO - Started process (PID=23289) to work on /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:58:48,580] {processor.py:641} INFO - Processing file /opt/airflow/dags/Streaming/streamGenerator.py for tasks to queue
+[2022-08-19 18:58:48,580] {logging_mixin.py:115} INFO - [2022-08-19 18:58:48,580] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:58:48,581] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/Streaming/streamGenerator.py
+[2022-08-19 18:58:48,597] {processor.py:161} INFO - Processing /opt/airflow/dags/Streaming/streamGenerator.py took 0.023 seconds

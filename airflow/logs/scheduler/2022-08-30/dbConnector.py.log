@@ -1,0 +1,81 @@
+[2022-08-30 16:53:34,744] {processor.py:153} INFO - Started process (PID=62) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:53:34,744] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-30 16:53:34,745] {logging_mixin.py:115} INFO - [2022-08-30 16:53:34,745] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:53:41,582] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:53:41,600] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 6.860 seconds
+[2022-08-30 16:54:44,085] {processor.py:153} INFO - Started process (PID=95) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:54:44,251] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-30 16:54:44,322] {logging_mixin.py:115} INFO - [2022-08-30 16:54:44,322] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:55:15,678] {logging_mixin.py:115} INFO - [2022-08-30 16:55:15,678] {timeout.py:67} ERROR - Process timed out, PID: 95
+[2022-08-30 16:55:17,472] {logging_mixin.py:115} INFO - [2022-08-30 16:55:15,767] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/dbConnector.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/dbConnector.py", line 1, in <module>
+    import pandas as pd
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/__init__.py", line 23, in <module>
+    from pandas.compat.pyarrow import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/pyarrow.py", line 6, in <module>
+    import pyarrow as pa
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyarrow/__init__.py", line 38, in <module>
+    from ._generated_version import version as __version__
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 917, in get_data
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dbConnector.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 95
+[2022-08-30 16:55:17,473] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:55:17,840] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 35.770 seconds
+[2022-08-30 16:55:48,597] {processor.py:153} INFO - Started process (PID=125) to work on /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:55:48,766] {processor.py:641} INFO - Processing file /opt/airflow/dags/dbConnector.py for tasks to queue
+[2022-08-30 16:55:48,871] {logging_mixin.py:115} INFO - [2022-08-30 16:55:48,870] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:56:19,820] {logging_mixin.py:115} INFO - [2022-08-30 16:56:19,819] {timeout.py:67} ERROR - Process timed out, PID: 125
+[2022-08-30 16:56:21,147] {logging_mixin.py:115} INFO - [2022-08-30 16:56:20,287] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/dbConnector.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/dbConnector.py", line 1, in <module>
+    import pandas as pd
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/__init__.py", line 15, in <module>
+    from pandas.compat.numpy import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/numpy/__init__.py", line 7, in <module>
+    from pandas.util.version import Version
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/__init__.py", line 1, in <module>
+    from pandas.util._decorators import (  # noqa
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 14, in <module>
+    from pandas._libs.properties import cache_readonly  # noqa
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/_libs/__init__.py", line 13, in <module>
+    from pandas._libs.interval import Interval
+  File "pandas/_libs/interval.pyx", line 1, in init pandas._libs.interval
+  File "pandas/_libs/hashtable.pyx", line 1, in init pandas._libs.hashtable
+  File "pandas/_libs/missing.pyx", line 1, in init pandas._libs.missing
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/_libs/tslibs/__init__.py", line 31, in <module>
+    from pandas._libs.tslibs.conversion import (
+  File "pandas/_libs/tslibs/conversion.pyx", line 63, in init pandas._libs.tslibs.conversion
+  File "pandas/_libs/tslibs/parsing.pyx", line 1, in init pandas._libs.tslibs.parsing
+  File "pandas/_libs/tslibs/offsets.pyx", line 1, in init pandas._libs.tslibs.offsets
+  File "pandas/_libs/tslibs/timedeltas.pyx", line 1595, in init pandas._libs.tslibs.timedeltas
+  File "pandas/_libs/tslibs/timedeltas.pyx", line 1328, in pandas._libs.tslibs.timedeltas.Timedelta.__new__
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dbConnector.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 125
+[2022-08-30 16:56:21,148] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dbConnector.py
+[2022-08-30 16:56:23,985] {processor.py:161} INFO - Processing /opt/airflow/dags/dbConnector.py took 35.532 seconds
